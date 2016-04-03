@@ -9,9 +9,10 @@ Description: Library of decoding .dat and reading datas in .txt to terminal
 
 Complies:
 	g++ -c FileReader.cpp -o FileReader.o
-	g++ -c RecordReader.cpp -o RecordReader.o
+	g++ -c farmhash.cc -o farmhash.o
+	g++ -c RecordReader.cpp -o RecordReader.o farmhash.o
 	g++ -o FileReaderApp FileReaderApp.cpp FileReader.o -liconv
-	g++ -o SearchApp SearchApp.cpp RecordReader.o
+	g++ -o SearchApp SearchApp.cpp RecordReader.o farmhash.o
 Run:
 	./FileReaderApp SyllableDB-V1.dat
 	./SearchApp SyllableDB-V1.txt TextInput1000Words.txt
