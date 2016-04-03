@@ -49,10 +49,10 @@ int main(int argc, char *argv[]) {
 		}
 
 		float duration = float( clock () - begin_time );
-		fprintf(toWrite, ", Searched Time: %.0fns\n==========\n", duration);
+		fprintf(toWrite, ", Searched Time: %.2fus\n==========\n", duration);
 	}
 	float totalTime = float( clock () - start_time );
-	fprintf(toWrite, "\nSearched %d inputs, Not Found: %d\nTotal Searched Time: %.0fns", numInput, notFound, totalTime);
-	printf("Searched %d inputs, Not Found: %d\nTotal Searched Time: %.0fns", numInput, notFound, totalTime);
+	fprintf(toWrite, "\nSearched %d inputs, Not Found: %d\nTotal Searched Time: %.2fus", numInput, notFound, totalTime);
+	printf("Searched %d inputs, Not Found: %d\nTotal Searched Time: %.2fus\n", numInput, notFound, totalTime);
 	return 0;
 }
