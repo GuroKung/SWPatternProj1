@@ -1,4 +1,6 @@
-.DS_Store
+#OS junk files
+*.DS_Store
+
 FileReader.o
 RecordReader.o
 FileReaderApp
@@ -6,5 +8,4 @@ SearchApp
 SyllableDB-V1.txt
 SyllableDB-V2.txt
 SyllableDB-V3.txt
-filename.txt
 result.txt
