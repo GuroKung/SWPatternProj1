@@ -4,16 +4,16 @@
 //		#include "RecordReader.h"
 
 #include "RecordReader.h"
-#include <stdio.h>
-#include <stdint.h>
 #include <stdlib.h>
+
+using namespace std;
 
 FILE* file;
 RECORD* record;
 int recordsCount;
-std::vector<RECORD*> records;
+vector<RECORD*> records;
 /////////////////// MAP //////////////////
-std::unordered_map<std::string, std::string> mymap;
+unordered_map<string, string> mymap;
 
 void initReader() {
 	recordsCount = 0;
@@ -24,10 +24,12 @@ void RecordReader::openFile(char* path) {
 	file = fopen(path, "r");
 	initReader();
 }
+
 void RecordReader::closeFile() {
 	fclose(file);
 	printf("Read %d records\n", recordsCount);
 }
+
 bool RecordReader::readRecord() {
 	if(feof(file)) {
 		return false;
@@ -71,6 +73,7 @@ bool RecordReader::readRecord() {
 	records.push_back(record);
 	return true;
 }
+
 int RecordReader::readAllRecords() {
 	int count = 0;
 	while(readRecord()) {
@@ -78,13 +81,15 @@ int RecordReader::readAllRecords() {
 	}
 	return count;
 }
+
 int RecordReader::getNumberOfReadRecord() {
 	return recordsCount;
 }
-std::vector<RECORD*> RecordReader::getReadRecords() {
+
+vector<RECORD*> RecordReader::getReadRecords() {
 	return records;
 }
 
-std::unordered_map<std::string, std::string> RecordReader::getMap(){
+unordered_map<string, string> RecordReader::getMap(){
 	return mymap;
 }

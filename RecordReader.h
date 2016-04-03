@@ -7,6 +7,8 @@ typedef struct RECORD {
 	char data[1024];
 } RECORD;
 
+using namespace std;
+
 class RecordReader {
 	public:
 		static void openFile(char* path);
@@ -18,7 +20,7 @@ class RecordReader {
 		// Return the number of all records read
 		static int getNumberOfReadRecord();
 		// Return arrayList of read read records
-		static std::vector<RECORD*> getReadRecords();
+		static vector<RECORD*> getReadRecords();
 		// Return map
-		static std::unordered_map<std::string, std::string> getMap();
+		static unordered_map<string, string> getMap();
 };
