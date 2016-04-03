@@ -1,0 +1,1 @@
+type ./search SyllableDB-V1.dat
