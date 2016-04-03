@@ -10,7 +10,8 @@
 #include <string.h>
 #include <time.h>
 #include <vector>
-#include <map>
+#include <unordered_map>
+#include <string>
 
 int main(int argc, char *argv[]) {
 	if(argc < 3){
@@ -20,7 +21,7 @@ int main(int argc, char *argv[]) {
 	// Read SyllableDB
 	RecordReader::openFile(argv[1]);
 	RecordReader::readAllRecords();
-	std::vector<RECORD*> SyllableDB = RecordReader::getReadRecords();
+	std::unordered_map<std::string, std::string> SyllableDB = RecordReader::getMap();
 	int totalRecords = RecordReader::getNumberOfReadRecord();
 	RecordReader::closeFile();
 	// Read 1000 Inputs
@@ -36,21 +37,16 @@ int main(int argc, char *argv[]) {
 	for(int i=0; i<numInput;i++) {
 		RECORD* input = inputs.at(i);
 		fprintf(toWrite, "Input ID: %s, Text: %s\nResult: ", input->id, input->data);
-		int isFound = 0;
 		clock_t begin_time = clock();
-		for(int j=0; j<totalRecords;j++) {
-			RECORD* record = SyllableDB.at(j);
-			if(strcmp(input->data, record->data) == 0) {
-				fprintf(toWrite, "Found at SyllableDB ID %s", record->id);
-				isFound = 1;
-				break;
-			}
+		if( SyllableDB[input->data].length() > 0 ) {
+			fprintf(toWrite, "Found at SyllableDB ID %s", SyllableDB[input->data].c_str());
 		}
-		float duration = float( clock () - begin_time );
-		if(isFound == 0) {
+		else {
 			fprintf(toWrite, "Not Found");
 		}
-		fprintf(toWrite, ", Searched Time: %.0fms\n==========\n", duration);
+
+		float duration = float( clock () - begin_time );
+		fprintf(toWrite, ", Searched Time: %.0fns\n==========\n", duration);
 	}
 	float totalTime = float( clock () - start_time );
 	fprintf(toWrite, "\nSearched %d inputs, Total Searched Time: %.0fns", numInput, totalTime);
