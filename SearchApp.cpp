@@ -7,6 +7,7 @@
 #include <time.h>
 #include <vector>
 #include <unordered_map>
+#include "farmhash.h"
 
 using namespace std;
 
@@ -18,7 +19,7 @@ int main(int argc, char *argv[]) {
 	// Read SyllableDB
 	RecordReader::openFile(argv[1]);
 	RecordReader::readAllRecords();
-	unordered_map<string, string> SyllableDB = RecordReader::getMap();
+	unordered_map<size_t, string> SyllableDB = RecordReader::getMap();
 	int totalRecords = RecordReader::getNumberOfReadRecord();
 	RecordReader::closeFile();
 	
@@ -37,7 +38,8 @@ int main(int argc, char *argv[]) {
 		RECORD* input = inputs.at(i);
 		fprintf(output, "Input ID: %s, Text: %s\nResult: ", input->id, input->data);
 		clock_t begin_time = clock();
-		string value = SyllableDB[input->data];
+		size_t search = NAMESPACE_FOR_HASH_FUNCTIONS::Hash(input->data, strnlen(input->data, 1023));
+		string value = SyllableDB[search];
 		if( value.length() > 0 ) {
 			fprintf(output, "Found at SyllableDB ID %s", value.c_str());
 		}

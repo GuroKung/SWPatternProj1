@@ -22,5 +22,5 @@ class RecordReader {
 		// Return arrayList of read read records
 		static vector<RECORD*> getReadRecords();
 		// Return map
-		static unordered_map<string, string> getMap();
+		static unordered_map<size_t, string> getMap();
 };

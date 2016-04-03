@@ -4,6 +4,7 @@
 //		#include "RecordReader.h"
 
 #include "RecordReader.h"
+#include "farmhash.h"
 #include <stdlib.h>
 
 using namespace std;
@@ -13,7 +14,7 @@ RECORD* record;
 int recordsCount;
 vector<RECORD*> records;
 /////////////////// MAP //////////////////
-unordered_map<string, string> mymap;
+unordered_map<size_t, string> mymap;
 
 void initReader() {
 	recordsCount = 0;
@@ -65,7 +66,8 @@ bool RecordReader::readRecord() {
 	}
 	record->data[1023] = 0;
 	////////////////////////// MAP /////////////////
-	mymap[record->data] = record->id; 
+	size_t hash = NAMESPACE_FOR_HASH_FUNCTIONS::Hash(record->data, strnlen(record->data, 1023));
+	mymap[hash] = record->id; 
 	////////////////////////////////////////////////
 	printf("ID: %s, Text: %s\n", record->id, record->data);
 	printf("=========================\n");
@@ -90,6 +92,6 @@ vector<RECORD*> RecordReader::getReadRecords() {
 	return records;
 }
 
-unordered_map<string, string> RecordReader::getMap(){
+unordered_map<size_t, string> RecordReader::getMap(){
 	return mymap;
 }
