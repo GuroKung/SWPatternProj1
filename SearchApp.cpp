@@ -1,7 +1,7 @@
 // Compile this file:
-// 		g++ -o record_reader record_reader.cpp RecordReader.o -liconv
+// 		g++ -o SearchApp SearchApp.cpp RecordReader.o -liconv
 // Run this file:
-//		./record_reader SyllableDB-V1.txt
+//		./SearchApp SyllableDB-V1.txt TextInput1000Words.txt
 
 #include "RecordReader.h"
 #include <stdio.h>
@@ -52,7 +52,7 @@ int main(int argc, char *argv[]) {
 		fprintf(toWrite, ", Searched Time: %.0fms\n==========\n", duration);
 	}
 	float totalTime = float( clock () - start_time );
-	fprintf(toWrite, "\nSearched %d inputs, Total Searched Time: %.0fms", numInput, totalTime);
+	fprintf(toWrite, "\nSearched %d inputs, Total Searched Time: %.0fns", numInput, totalTime);
 	printf("Total Searched Time: %.0fns\n", totalTime);
 	return 0;
 }

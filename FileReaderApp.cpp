@@ -1,7 +1,7 @@
 // Compile this file:
-// 		g++ -o file_reader file_reader.cpp FileReader.o -liconv
+// 		g++ -o FileReaderApp FileReaderApp.cpp FileReader.o -liconv
 // Run this file:
-//		./file_reader SyllableDB-V1.dat
+//		./FileReaderApp SyllableDB-V1.dat
 
 #include "FileReader.h"
 #include <stdio.h>

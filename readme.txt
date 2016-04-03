@@ -7,6 +7,15 @@ Description: Library of decoding .dat and reading datas in .txt to terminal
 4) Can get the number of read records by using RecordReader library
 5) Can search input from SyllableDB
 
+Complies:
+	g++ -c FileReader.cpp -o FileReader.o
+	g++ -c RecordReader.cpp -o RecordReader.o
+	g++ -o FileReaderApp FileReaderApp.cpp FileReader.o -liconv
+	g++ -o SearchApp SearchApp.cpp RecordReader.o
+Run:
+	./FileReaderApp SyllableDB-V1.dat
+	./SearchApp SyllableDB-V1.txt TextInput1000Words.txt
+
 How to complies library?
 	For FileReader:
 		g++ -c FileReader.cpp -o FileReader.o
@@ -16,16 +25,16 @@ How to complies library?
 How to test the library?
 1) Make sure to complies both of including library (FileReader and RecordReader)
 2) Complies the test application (file_reader.cpp and record_reader.cpp) respectively
-	g++ -o file_reader file_reader.cpp FileReader.o -liconv
-	g++ -o record_reader record_reader.cpp RecordReader.o
-3) Run the test application, start with file_reader.cpp first
-	./file_reader filename.dat
+	g++ -o FileReaderApp FileReaderApp.cpp FileReader.o -liconv
+	g++ -o SearchApp SearchApp.cpp RecordReader.o
+3) Run the test application, start with FileReaderApp.cpp first
+	./FileReaderApp filename.dat
 	ex.
-		./file_reader SyllableDB-V1.dat
-4) After 3) ‘filename.txt’ will be created, then run record_reader.cpp
-	./record_reader syllableName.txt textInputName.txt
+		./FileReaderApp SyllableDB-V1.dat
+4) After 3) ‘filename.txt’ will be created, then run SearchApp.cpp
+	./SearchApp syllableName.txt textInputName.txt
 	ex.
-		./record_reader SyllableDB-V1.txt TextInput1000Words.txt
+		./SearchApp SyllableDB-V1.txt TextInput1000Words.txt
 5) The result will be shown in the terminal
 6) After 5) it will create ‘result.txt’ for the running time of searching
 * You can read the API of each library in .h files
