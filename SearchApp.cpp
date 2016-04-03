@@ -10,6 +10,7 @@
 #include <string.h>
 #include <time.h>
 #include <vector>
+#include <map>
 
 int main(int argc, char *argv[]) {
 	if(argc < 3){

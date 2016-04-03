@@ -1,8 +1,10 @@
 #include <vector>
+#include <unordered_map>
+#include <string>
 // RecordReader.h
 typedef struct RECORD {
 	char id[32];
-	char data[4096];
+	char data[1024];
 } RECORD;
 
 class RecordReader {
@@ -17,4 +19,6 @@ class RecordReader {
 		static int getNumberOfReadRecord();
 		// Return arrayList of read read records
 		static std::vector<RECORD*> getReadRecords();
+		// Return map
+		static std::unordered_map<std::string, std::string> getMap();
 };

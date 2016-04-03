@@ -7,12 +7,13 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
-#include <vector>
 
 FILE* file;
 RECORD* record;
 int recordsCount;
 std::vector<RECORD*> records;
+/////////////////// MAP //////////////////
+std::unordered_map<std::string, std::string> mymap;
 
 void initReader() {
 	recordsCount = 0;
@@ -61,6 +62,9 @@ bool RecordReader::readRecord() {
 		}
 	}
 	record->data[1023] = 0;
+	////////////////////////// MAP /////////////////
+	mymap[record->data] = record->id; 
+	////////////////////////////////////////////////
 	printf("ID: %s, Text: %s\n", record->id, record->data);
 	printf("=========================\n");
 	recordsCount++;
@@ -79,4 +83,8 @@ int RecordReader::getNumberOfReadRecord() {
 }
 std::vector<RECORD*> RecordReader::getReadRecords() {
 	return records;
+}
+
+std::unordered_map<std::string, std::string> RecordReader::getMap(){
+	return mymap;
 }
