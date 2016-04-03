@@ -34,22 +34,25 @@ int main(int argc, char *argv[]) {
 	FILE* toWrite = fopen("result.txt", "w");
 	fprintf(toWrite, "Search inputs from %s\nBy using datas from %s\n\n", argv[2], argv[1]);
 	clock_t start_time = clock();
+	int notFound = 0;
 	for(int i=0; i<numInput;i++) {
 		RECORD* input = inputs.at(i);
 		fprintf(toWrite, "Input ID: %s, Text: %s\nResult: ", input->id, input->data);
 		clock_t begin_time = clock();
-		if( SyllableDB[input->data].length() > 0 ) {
-			fprintf(toWrite, "Found at SyllableDB ID %s", SyllableDB[input->data].c_str());
+		std::string value = SyllableDB[input->data];
+		if( value.length() > 0 ) {
+			fprintf(toWrite, "Found at SyllableDB ID %s", value.c_str());
 		}
 		else {
 			fprintf(toWrite, "Not Found");
+			notFound++;
 		}
 
 		float duration = float( clock () - begin_time );
 		fprintf(toWrite, ", Searched Time: %.0fns\n==========\n", duration);
 	}
 	float totalTime = float( clock () - start_time );
-	fprintf(toWrite, "\nSearched %d inputs, Total Searched Time: %.0fns", numInput, totalTime);
-	printf("Total Searched Time: %.0fns\n", totalTime);
+	fprintf(toWrite, "\nSearched %d inputs, Not Found: %d\nTotal Searched Time: %.0fns", numInput, notFound, totalTime);
+	printf("Searched %d inputs, Not Found: %d\nTotal Searched Time: %.0fns", numInput, notFound, totalTime);
 	return 0;
 }
