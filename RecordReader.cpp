@@ -67,7 +67,8 @@ bool RecordReader::readRecord() {
 	record->data[1023] = 0;
 	////////////////////////// MAP /////////////////
 	size_t hash = NAMESPACE_FOR_HASH_FUNCTIONS::Hash(record->data, strnlen(record->data, 1023));
-	mymap[hash] = record->id; 
+	mymap[hash] = record->id;
+	record->key = hash;
 	////////////////////////////////////////////////
 	printf("ID: %s, Text: %s\n", record->id, record->data);
 	printf("=========================\n");

@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
 	unordered_map<size_t, string> SyllableDB = RecordReader::getMap();
 	int totalRecords = RecordReader::getNumberOfReadRecord();
 	RecordReader::closeFile();
-	
+
 	// Read 1000 Inputs
 	RecordReader::openFile(argv[2]);
 	RecordReader::readAllRecords();
@@ -32,27 +32,21 @@ int main(int argc, char *argv[]) {
 
 	FILE* output = fopen("result.txt", "w");
 	fprintf(output, "Search inputs from %s\nBy using datas from %s\n\n", argv[2], argv[1]);
-	clock_t start_time = clock();
 	int notFound = 0;
+	clock_t start_time = clock();
 	for(int i=0; i<numInput; i++) {
 		RECORD* input = inputs.at(i);
-		fprintf(output, "Input ID: %s, Text: %s\nResult: ", input->id, input->data);
-		clock_t begin_time = clock();
-		size_t search = NAMESPACE_FOR_HASH_FUNCTIONS::Hash(input->data, strnlen(input->data, 1023));
-		string value = SyllableDB[search];
+		string value = SyllableDB[input->key];
 		if( value.length() > 0 ) {
-			fprintf(output, "Found at SyllableDB ID %s", value.c_str());
+			fprintf(output, "ID: %s, Text: %s\nResult: Found ID %s\n", input->id, input->data,value.c_str());
 		}
 		else {
-			fprintf(output, "Not Found");
+			fprintf(output, "ID: %s, Text: %s\nResult: -\n", input->id, input->data);
 			notFound++;
 		}
-
-		float duration = float( clock () - begin_time );
-		fprintf(output, ", Searched Time: %.2fus\n==========\n", duration);
 	}
 	float totalTime = float( clock () - start_time );
-	fprintf(output, "\nSearched %d inputs, Not Found: %d\nTotal Searched Time: %.2fus", numInput, notFound, totalTime);
-	printf("Searched %d inputs, Not Found: %d\nTotal Searched Time: %.2fus\n", numInput, notFound, totalTime);
+	fprintf(output, "\nSearched %d inputs, Not Found: %d\nTotal Searched Time: %.0fus", numInput, notFound, totalTime);
+	printf("Searched %d inputs, Not Found: %d\nTotal Searched Time: %.0fus\n", numInput, notFound, totalTime);
 	return 0;
 }

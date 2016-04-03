@@ -5,6 +5,7 @@
 typedef struct RECORD {
 	char id[32];
 	char data[1024];
+	size_t key;
 } RECORD;
 
 using namespace std;
