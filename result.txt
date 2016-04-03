@@ -2,22 +2,22 @@ Search inputs from TextInput1000Words.txt
 By using datas from SyllableDB-V1.txt
 
 Input ID: 1, Text: XXXYYYAASYSAAXXXYYYXXXYYYBBSYSBBXXXYYY
-Result: Found at SyllableDB ID 1, Searched Time: 6.00us
+Result: Found at SyllableDB ID 1, Searched Time: 5.00us
 ==========
 Input ID: 2, Text: XXXYYYCCSYSCCXXXYYYXXXYYYDDSYSDDXXXYYY
-Result: Found at SyllableDB ID 2, Searched Time: 2.00us
+Result: Found at SyllableDB ID 2, Searched Time: 3.00us
 ==========
 Input ID: 3, Text: XXXYYYEESYSEEXXXYYYXXXYYYFFSYSFFXXXYYY
-Result: Found at SyllableDB ID 3, Searched Time: 1.00us
+Result: Found at SyllableDB ID 3, Searched Time: 11.00us
 ==========
 Input ID: 4, Text: XXXYYYGGSYSGGXXXYYYXXXYYYHHSYSHHXXXYYY
-Result: Found at SyllableDB ID 4, Searched Time: 2.00us
+Result: Found at SyllableDB ID 4, Searched Time: 4.00us
 ==========
 Input ID: 5, Text: กA
-Result: Found at SyllableDB ID 5, Searched Time: 2.00us
+Result: Found at SyllableDB ID 5, Searched Time: 1.00us
 ==========
 Input ID: 6, Text: ขB
-Result: Found at SyllableDB ID 6, Searched Time: 2.00us
+Result: Found at SyllableDB ID 6, Searched Time: 1.00us
 ==========
 Input ID: 7, Text: คC
 Result: Found at SyllableDB ID 7, Searched Time: 1.00us
@@ -32,19 +32,19 @@ Input ID: 10, Text: จF
 Result: Found at SyllableDB ID 10, Searched Time: 1.00us
 ==========
 Input ID: 11, Text: ฉG
-Result: Found at SyllableDB ID 11, Searched Time: 2.00us
+Result: Found at SyllableDB ID 11, Searched Time: 1.00us
 ==========
 Input ID: 12, Text: ชH
 Result: Found at SyllableDB ID 12, Searched Time: 1.00us
 ==========
 Input ID: 13, Text: ซI
-Result: Found at SyllableDB ID 13, Searched Time: 3.00us
+Result: Found at SyllableDB ID 13, Searched Time: 2.00us
 ==========
 Input ID: 14, Text: ฌJ
-Result: Found at SyllableDB ID 14, Searched Time: 1.00us
+Result: Found at SyllableDB ID 14, Searched Time: 2.00us
 ==========
 Input ID: 15, Text: ญK
-Result: Found at SyllableDB ID 15, Searched Time: 0.00us
+Result: Found at SyllableDB ID 15, Searched Time: 3.00us
 ==========
 Input ID: 16, Text: ฎL
 Result: Found at SyllableDB ID 16, Searched Time: 2.00us
@@ -53,19 +53,19 @@ Input ID: 17, Text: ฏM
 Result: Found at SyllableDB ID 17, Searched Time: 2.00us
 ==========
 Input ID: 18, Text: ฐN
-Result: Found at SyllableDB ID 18, Searched Time: 2.00us
+Result: Found at SyllableDB ID 18, Searched Time: 1.00us
 ==========
 Input ID: 19, Text: ฑO
-Result: Found at SyllableDB ID 19, Searched Time: 1.00us
+Result: Found at SyllableDB ID 19, Searched Time: 2.00us
 ==========
 Input ID: 20, Text: ฒP
-Result: Found at SyllableDB ID 20, Searched Time: 2.00us
+Result: Found at SyllableDB ID 20, Searched Time: 1.00us
 ==========
 Input ID: 21, Text: ณQ
-Result: Found at SyllableDB ID 21, Searched Time: 2.00us
+Result: Found at SyllableDB ID 21, Searched Time: 1.00us
 ==========
 Input ID: 22, Text: ดR
-Result: Found at SyllableDB ID 22, Searched Time: 2.00us
+Result: Found at SyllableDB ID 22, Searched Time: 1.00us
 ==========
 Input ID: 23, Text: ตS
 Result: Found at SyllableDB ID 23, Searched Time: 1.00us
@@ -80,28 +80,28 @@ Input ID: 26, Text: ธV
 Result: Found at SyllableDB ID 26, Searched Time: 2.00us
 ==========
 Input ID: 27, Text: นW
-Result: Found at SyllableDB ID 27, Searched Time: 2.00us
+Result: Found at SyllableDB ID 27, Searched Time: 1.00us
 ==========
 Input ID: 28, Text: บX
 Result: Found at SyllableDB ID 28, Searched Time: 1.00us
 ==========
 Input ID: 29, Text: ปY
-Result: Found at SyllableDB ID 29, Searched Time: 2.00us
+Result: Found at SyllableDB ID 29, Searched Time: 1.00us
 ==========
 Input ID: 30, Text: ผZ
 Result: Found at SyllableDB ID 30, Searched Time: 1.00us
 ==========
 Input ID: 31, Text: ฝ1
-Result: Found at SyllableDB ID 31, Searched Time: 2.00us
+Result: Found at SyllableDB ID 31, Searched Time: 1.00us
 ==========
 Input ID: 32, Text: พ2
-Result: Found at SyllableDB ID 32, Searched Time: 1.00us
+Result: Found at SyllableDB ID 32, Searched Time: 2.00us
 ==========
 Input ID: 33, Text: ฟ3
-Result: Found at SyllableDB ID 33, Searched Time: 1.00us
+Result: Found at SyllableDB ID 33, Searched Time: 2.00us
 ==========
 Input ID: 34, Text: ภ4
-Result: Found at SyllableDB ID 34, Searched Time: 1.00us
+Result: Found at SyllableDB ID 34, Searched Time: 2.00us
 ==========
 Input ID: 35, Text: ม5
 Result: Found at SyllableDB ID 35, Searched Time: 1.00us
@@ -110,25 +110,25 @@ Input ID: 36, Text: ย6
 Result: Found at SyllableDB ID 36, Searched Time: 2.00us
 ==========
 Input ID: 37, Text: ร7
-Result: Found at SyllableDB ID 37, Searched Time: 6.00us
+Result: Found at SyllableDB ID 37, Searched Time: 1.00us
 ==========
 Input ID: 38, Text: ฤ8
-Result: Found at SyllableDB ID 38, Searched Time: 1.00us
+Result: Found at SyllableDB ID 38, Searched Time: 3.00us
 ==========
 Input ID: 39, Text: ล๙
 Result: Found at SyllableDB ID 39, Searched Time: 2.00us
 ==========
 Input ID: 40, Text: 9๐
-Result: Found at SyllableDB ID 40, Searched Time: 1.00us
+Result: Found at SyllableDB ID 40, Searched Time: 2.00us
 ==========
 Input ID: 41, Text: ว0
 Result: Found at SyllableDB ID 41, Searched Time: 1.00us
 ==========
 Input ID: 42, Text: ศ๑
-Result: Found at SyllableDB ID 42, Searched Time: 2.00us
+Result: Found at SyllableDB ID 42, Searched Time: 1.00us
 ==========
 Input ID: 43, Text: ฮ๒
-Result: Found at SyllableDB ID 43, Searched Time: 3.00us
+Result: Found at SyllableDB ID 43, Searched Time: 2.00us
 ==========
 Input ID: 44, Text: ษ๓
 Result: Found at SyllableDB ID 44, Searched Time: 2.00us
@@ -137,13 +137,13 @@ Input ID: 45, Text: ส๔
 Result: Found at SyllableDB ID 45, Searched Time: 1.00us
 ==========
 Input ID: 46, Text: ห๕
-Result: Found at SyllableDB ID 46, Searched Time: 1.00us
+Result: Found at SyllableDB ID 46, Searched Time: 3.00us
 ==========
 Input ID: 47, Text: ฯ๖
 Result: Found at SyllableDB ID 47, Searched Time: 1.00us
 ==========
 Input ID: 48, Text: อ๗
-Result: Found at SyllableDB ID 48, Searched Time: 2.00us
+Result: Found at SyllableDB ID 48, Searched Time: 3.00us
 ==========
 Input ID: 49, Text: ฬ๘
 Result: Found at SyllableDB ID 49, Searched Time: 1.00us
@@ -155,7 +155,7 @@ Input ID: 51, Text: รรโรงเรียน
 Result: Found at SyllableDB ID 51, Searched Time: 2.00us
 ==========
 Input ID: 52, Text: พต
-Result: Found at SyllableDB ID 52, Searched Time: 2.00us
+Result: Found at SyllableDB ID 52, Searched Time: 1.00us
 ==========
 Input ID: 53, Text: พตท
 Result: Found at SyllableDB ID 53, Searched Time: 2.00us
@@ -173,28 +173,28 @@ Input ID: 57, Text: มศว
 Result: Found at SyllableDB ID 57, Searched Time: 2.00us
 ==========
 Input ID: 58, Text: มลว
-Result: Found at SyllableDB ID 58, Searched Time: 1.00us
+Result: Found at SyllableDB ID 58, Searched Time: 2.00us
 ==========
 Input ID: 59, Text: มทอ
-Result: Found at SyllableDB ID 59, Searched Time: 2.00us
+Result: Found at SyllableDB ID 59, Searched Time: 1.00us
 ==========
 Input ID: 60, Text: รสพ
-Result: Found at SyllableDB ID 60, Searched Time: 9.00us
+Result: Found at SyllableDB ID 60, Searched Time: 2.00us
 ==========
 Input ID: 61, Text: ทศท
-Result: Found at SyllableDB ID 61, Searched Time: 1.00us
+Result: Found at SyllableDB ID 61, Searched Time: 2.00us
 ==========
 Input ID: 62, Text: ทศส
 Result: Found at SyllableDB ID 62, Searched Time: 1.00us
 ==========
 Input ID: 63, Text: ทสร
-Result: Found at SyllableDB ID 63, Searched Time: 1.00us
+Result: Found at SyllableDB ID 63, Searched Time: 2.00us
 ==========
 Input ID: 64, Text: ABON
 Result: Found at SyllableDB ID 64, Searched Time: 1.00us
 ==========
 Input ID: 65, Text: AGING
-Result: Found at SyllableDB ID 65, Searched Time: 1.00us
+Result: Found at SyllableDB ID 65, Searched Time: 2.00us
 ==========
 Input ID: 66, Text: ALIZEEB
 Result: Found at SyllableDB ID 66, Searched Time: 1.00us
@@ -221,10 +221,10 @@ Input ID: 73, Text: AGEL
 Result: Found at SyllableDB ID 73, Searched Time: 1.00us
 ==========
 Input ID: 74, Text: AIRLINERESER
-Result: Found at SyllableDB ID 74, Searched Time: 2.00us
+Result: Found at SyllableDB ID 74, Searched Time: 3.00us
 ==========
 Input ID: 75, Text: ALFAS
-Result: Found at SyllableDB ID 75, Searched Time: 2.00us
+Result: Found at SyllableDB ID 75, Searched Time: 1.00us
 ==========
 Input ID: 76, Text: ALFRES
 Result: Found at SyllableDB ID 76, Searched Time: 2.00us
@@ -233,7 +233,7 @@ Input ID: 77, Text: ALLO
 Result: Found at SyllableDB ID 77, Searched Time: 1.00us
 ==========
 Input ID: 78, Text: ALMOND
-Result: Found at SyllableDB ID 78, Searched Time: 2.00us
+Result: Found at SyllableDB ID 78, Searched Time: 3.00us
 ==========
 Input ID: 79, Text: ALMONDS
 Result: Found at SyllableDB ID 79, Searched Time: 1.00us
@@ -260,22 +260,22 @@ Input ID: 86, Text: ASTHI
 Result: Found at SyllableDB ID 86, Searched Time: 1.00us
 ==========
 Input ID: 87, Text: ATTHE
-Result: Found at SyllableDB ID 87, Searched Time: 1.00us
+Result: Found at SyllableDB ID 87, Searched Time: 2.00us
 ==========
 Input ID: 88, Text: AUTOGLASS
 Result: Found at SyllableDB ID 88, Searched Time: 1.00us
 ==========
 Input ID: 89, Text: BAANI
-Result: Found at SyllableDB ID 89, Searched Time: 1.00us
+Result: Found at SyllableDB ID 89, Searched Time: 2.00us
 ==========
 Input ID: 90, Text: BAANDOW
-Result: Found at SyllableDB ID 90, Searched Time: 2.00us
+Result: Found at SyllableDB ID 90, Searched Time: 1.00us
 ==========
 Input ID: 91, Text: BAANKHUN
-Result: Found at SyllableDB ID 91, Searched Time: 1.00us
+Result: Found at SyllableDB ID 91, Searched Time: 2.00us
 ==========
 Input ID: 92, Text: BAICHARK
-Result: Found at SyllableDB ID 92, Searched Time: 1.00us
+Result: Found at SyllableDB ID 92, Searched Time: 2.00us
 ==========
 Input ID: 93, Text: BAILEYS
 Result: Found at SyllableDB ID 93, Searched Time: 1.00us
@@ -287,138 +287,24 @@ Input ID: 95, Text: BARRU
 Result: Found at SyllableDB ID 95, Searched Time: 1.00us
 ==========
 Input ID: 96, Text: BETHEL
-Result: Found at SyllableDB ID 96, Searched Time: 2.00us
+Result: Found at SyllableDB ID 96, Searched Time: 1.00us
 ==========
 Input ID: 97, Text: BELLAY
 Result: Found at SyllableDB ID 97, Searched Time: 1.00us
 ==========
 Input ID: 98, Text: BELLOON
-Result: Found at SyllableDB ID 98, Searched Time: 2.00us
+Result: Found at SyllableDB ID 98, Searched Time: 1.00us
 ==========
 Input ID: 99, Text: BENCHAKHON
 Result: Found at SyllableDB ID 99, Searched Time: 1.00us
 ==========
 Input ID: 100, Text: BERM
-Result: Found at SyllableDB ID 100, Searched Time: 2.00us
+Result: Found at SyllableDB ID 100, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 3.00us
 ==========
 Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 107, Text: BE7RROW
@@ -437,6 +323,39 @@ Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 107, Text: BE7RROW
@@ -446,58 +365,7 @@ Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 2.00us
@@ -518,46 +386,10 @@ Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 0.00us
@@ -566,13 +398,7 @@ Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 107, Text: BE7RROW
-Result: Not Found, Searched Time: 1.00us
+Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 1.00us
@@ -587,6 +413,162 @@ Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
@@ -597,60 +579,78 @@ Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROW
 Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 107, Text: BE7RROW
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 107, Text: BE7RROWID: 101, Text: BERROW
-Result: Not Found, Searched Time: 2.00us
+Result: Not Found, Searched Time: 3.00us
 ==========
 Input ID: 102, Text: BESTEVER
 Result: Found at SyllableDB ID 102, Searched Time: 1.00us
 ==========
 Input ID: 103, Text: BIOTIC
-Result: Found at SyllableDB ID 103, Searched Time: 2.00us
+Result: Found at SyllableDB ID 103, Searched Time: 1.00us
 ==========
 Input ID: 104, Text: BLACKCO
-Result: Found at SyllableDB ID 104, Searched Time: 0.00us
+Result: Found at SyllableDB ID 104, Searched Time: 2.00us
 ==========
 Input ID: 105, Text: BLISTON
-Result: Found at SyllableDB ID 105, Searched Time: 1.00us
+Result: Found at SyllableDB ID 105, Searched Time: 2.00us
 ==========
 Input ID: 106, Text: BLISSTEL
-Result: Found at SyllableDB ID 106, Searched Time: 1.00us
+Result: Found at SyllableDB ID 106, Searched Time: 2.00us
 ==========
 Input ID: 107, Text: BOMSUB
-Result: Found at SyllableDB ID 107, Searched Time: 3.00us
+Result: Found at SyllableDB ID 107, Searched Time: 2.00us
 ==========
 Input ID: 108, Text: BOONKHUM
-Result: Found at SyllableDB ID 108, Searched Time: 1.00us
+Result: Found at SyllableDB ID 108, Searched Time: 3.00us
 ==========
 Input ID: 109, Text: BOONSAMPHAN
-Result: Found at SyllableDB ID 109, Searched Time: 3.00us
+Result: Found at SyllableDB ID 109, Searched Time: 1.00us
 ==========
 Input ID: 110, Text: BOONTHA
-Result: Found at SyllableDB ID 110, Searched Time: 1.00us
+Result: Found at SyllableDB ID 110, Searched Time: 3.00us
 ==========
 Input ID: 111, Text: BOULEH
-Result: Found at SyllableDB ID 111, Searched Time: 2.00us
+Result: Found at SyllableDB ID 111, Searched Time: 1.00us
 ==========
 Input ID: 112, Text: BREASTS
-Result: Found at SyllableDB ID 112, Searched Time: 1.00us
+Result: Found at SyllableDB ID 112, Searched Time: 2.00us
 ==========
 Input ID: 113, Text: BRUTTIN
-Result: Found at SyllableDB ID 113, Searched Time: 2.00us
+Result: Found at SyllableDB ID 113, Searched Time: 1.00us
 ==========
 Input ID: 114, Text: BUAPUENGPATTA
 Result: Found at SyllableDB ID 114, Searched Time: 1.00us
 ==========
 Input ID: 115, Text: BUESA
-Result: Found at SyllableDB ID 115, Searched Time: 2.00us
+Result: Found at SyllableDB ID 115, Searched Time: 1.00us
 ==========
 Input ID: 116, Text: BUESUB
 Result: Found at SyllableDB ID 116, Searched Time: 1.00us
 ==========
 Input ID: 117, Text: BUONGIOR
-Result: Found at SyllableDB ID 117, Searched Time: 2.00us
+Result: Found at SyllableDB ID 117, Searched Time: 1.00us
 ==========
 Input ID: 118, Text: BURRI
-Result: Found at SyllableDB ID 118, Searched Time: 1.00us
+Result: Found at SyllableDB ID 118, Searched Time: 2.00us
 ==========
 Input ID: 119, Text: CCHAO
 Result: Found at SyllableDB ID 119, Searched Time: 1.00us
@@ -671,25 +671,25 @@ Input ID: 124, Text: CARBO
 Result: Found at SyllableDB ID 124, Searched Time: 1.00us
 ==========
 Input ID: 125, Text: CARNA
-Result: Found at SyllableDB ID 125, Searched Time: 1.00us
+Result: Found at SyllableDB ID 125, Searched Time: 2.00us
 ==========
 Input ID: 126, Text: CARPARKING
 Result: Found at SyllableDB ID 126, Searched Time: 1.00us
 ==========
 Input ID: 127, Text: CARSUARI
-Result: Found at SyllableDB ID 127, Searched Time: 1.00us
+Result: Found at SyllableDB ID 127, Searched Time: 2.00us
 ==========
 Input ID: 128, Text: CENTRES
-Result: Found at SyllableDB ID 128, Searched Time: 1.00us
+Result: Found at SyllableDB ID 128, Searched Time: 2.00us
 ==========
 Input ID: 129, Text: CHAIKHAO
-Result: Found at SyllableDB ID 129, Searched Time: 3.00us
+Result: Found at SyllableDB ID 129, Searched Time: 2.00us
 ==========
 Input ID: 130, Text: CHAILOEI
 Result: Found at SyllableDB ID 130, Searched Time: 1.00us
 ==========
 Input ID: 131, Text: CHAKRAS
-Result: Found at SyllableDB ID 131, Searched Time: 2.00us
+Result: Found at SyllableDB ID 131, Searched Time: 1.00us
 ==========
 Input ID: 132, Text: CHAKRU
 Result: Found at SyllableDB ID 132, Searched Time: 1.00us
@@ -701,19 +701,19 @@ Input ID: 134, Text: CHANKAEW
 Result: Found at SyllableDB ID 134, Searched Time: 1.00us
 ==========
 Input ID: 135, Text: CHANSA
-Result: Found at SyllableDB ID 135, Searched Time: 1.00us
+Result: Found at SyllableDB ID 135, Searched Time: 2.00us
 ==========
 Input ID: 136, Text: CHOYUYA
 Result: Found at SyllableDB ID 136, Searched Time: 1.00us
 ==========
 Input ID: 137, Text: CHOOTOESUB
-Result: Found at SyllableDB ID 137, Searched Time: 1.00us
+Result: Found at SyllableDB ID 137, Searched Time: 2.00us
 ==========
 Input ID: 138, Text: CHUANCHONG
 Result: Found at SyllableDB ID 138, Searched Time: 1.00us
 ==========
 Input ID: 139, Text: CLAMS
-Result: Found at SyllableDB ID 139, Searched Time: 1.00us
+Result: Found at SyllableDB ID 139, Searched Time: 2.00us
 ==========
 Input ID: 140, Text: COCHIN
 Result: Found at SyllableDB ID 140, Searched Time: 1.00us
@@ -722,7 +722,7 @@ Input ID: 141, Text: COOLSYSTEM
 Result: Found at SyllableDB ID 141, Searched Time: 1.00us
 ==========
 Input ID: 142, Text: COURSES
-Result: Found at SyllableDB ID 142, Searched Time: 2.00us
+Result: Found at SyllableDB ID 142, Searched Time: 1.00us
 ==========
 Input ID: 143, Text: CRAFTZ
 Result: Found at SyllableDB ID 143, Searched Time: 1.00us
@@ -740,7 +740,7 @@ Input ID: 147, Text: DTV
 Result: Found at SyllableDB ID 147, Searched Time: 1.00us
 ==========
 Input ID: 148, Text: DALLEECLEAN
-Result: Found at SyllableDB ID 148, Searched Time: 2.00us
+Result: Found at SyllableDB ID 148, Searched Time: 1.00us
 ==========
 Input ID: 149, Text: DANSUB
 Result: Found at SyllableDB ID 149, Searched Time: 1.00us
@@ -749,34 +749,34 @@ Input ID: 150, Text: DARBERG
 Result: Found at SyllableDB ID 150, Searched Time: 2.00us
 ==========
 Input ID: 151, Text: DEGREASER
-Result: Found at SyllableDB ID 151, Searched Time: 1.00us
+Result: Found at SyllableDB ID 151, Searched Time: 2.00us
 ==========
 Input ID: 152, Text: DECTIVE
-Result: Found at SyllableDB ID 152, Searched Time: 2.00us
+Result: Found at SyllableDB ID 152, Searched Time: 1.00us
 ==========
 Input ID: 153, Text: DENTA
 Result: Found at SyllableDB ID 153, Searched Time: 1.00us
 ==========
 Input ID: 154, Text: DUANGSI
-Result: Found at SyllableDB ID 154, Searched Time: 2.00us
+Result: Found at SyllableDB ID 154, Searched Time: 1.00us
 ==========
 Input ID: 155, Text: DUCTI
 Result: Found at SyllableDB ID 155, Searched Time: 1.00us
 ==========
 Input ID: 156, Text: DUCTIONS
-Result: Found at SyllableDB ID 156, Searched Time: 3.00us
+Result: Found at SyllableDB ID 156, Searched Time: 1.00us
 ==========
 Input ID: 157, Text: ENUFF
 Result: Found at SyllableDB ID 157, Searched Time: 1.00us
 ==========
 Input ID: 158, Text: ESUB
-Result: Found at SyllableDB ID 158, Searched Time: 2.00us
+Result: Found at SyllableDB ID 158, Searched Time: 1.00us
 ==========
 Input ID: 159, Text: EVAP
 Result: Found at SyllableDB ID 159, Searched Time: 1.00us
 ==========
 Input ID: 160, Text: ELKEN
-Result: Found at SyllableDB ID 160, Searched Time: 2.00us
+Result: Found at SyllableDB ID 160, Searched Time: 1.00us
 ==========
 Input ID: 161, Text: ELTA
 Result: Found at SyllableDB ID 161, Searched Time: 0.00us
@@ -791,13 +791,13 @@ Input ID: 164, Text: FASTENERS
 Result: Found at SyllableDB ID 164, Searched Time: 1.00us
 ==========
 Input ID: 165, Text: FECTION
-Result: Found at SyllableDB ID 165, Searched Time: 0.00us
+Result: Found at SyllableDB ID 165, Searched Time: 1.00us
 ==========
 Input ID: 166, Text: FERNESS
 Result: Found at SyllableDB ID 166, Searched Time: 1.00us
 ==========
 Input ID: 167, Text: FIRSTVI
-Result: Found at SyllableDB ID 167, Searched Time: 1.00us
+Result: Found at SyllableDB ID 167, Searched Time: 0.00us
 ==========
 Input ID: 168, Text: FISHFEET
 Result: Found at SyllableDB ID 168, Searched Time: 1.00us
@@ -824,70 +824,70 @@ Input ID: 175, Text: GARGUAR
 Result: Found at SyllableDB ID 175, Searched Time: 1.00us
 ==========
 Input ID: 176, Text: GARMONTE
-Result: Found at SyllableDB ID 176, Searched Time: 1.00us
+Result: Found at SyllableDB ID 176, Searched Time: 2.00us
 ==========
 Input ID: 177, Text: GIEUSE
-Result: Found at SyllableDB ID 177, Searched Time: 0.00us
+Result: Found at SyllableDB ID 177, Searched Time: 1.00us
 ==========
 Input ID: 178, Text: GISTERED
-Result: Found at SyllableDB ID 178, Searched Time: 1.00us
+Result: Found at SyllableDB ID 178, Searched Time: 2.00us
 ==========
 Input ID: 179, Text: GLAZED
 Result: Found at SyllableDB ID 179, Searched Time: 1.00us
 ==========
 Input ID: 180, Text: GLORDA
-Result: Found at SyllableDB ID 180, Searched Time: 1.00us
+Result: Found at SyllableDB ID 180, Searched Time: 2.00us
 ==========
 Input ID: 181, Text: GOODLAKE
 Result: Found at SyllableDB ID 181, Searched Time: 1.00us
 ==========
 Input ID: 182, Text: GREENTOUCH
-Result: Found at SyllableDB ID 182, Searched Time: 1.00us
+Result: Found at SyllableDB ID 182, Searched Time: 2.00us
 ==========
 Input ID: 183, Text: GUNTHART
 Result: Found at SyllableDB ID 183, Searched Time: 1.00us
 ==========
 Input ID: 184, Text: HAIRLON
-Result: Found at SyllableDB ID 184, Searched Time: 1.00us
+Result: Found at SyllableDB ID 184, Searched Time: 2.00us
 ==========
 Input ID: 185, Text: HAIRPRO
-Result: Found at SyllableDB ID 185, Searched Time: 2.00us
+Result: Found at SyllableDB ID 185, Searched Time: 0.00us
 ==========
 Input ID: 186, Text: HAIRY
-Result: Found at SyllableDB ID 186, Searched Time: 1.00us
+Result: Found at SyllableDB ID 186, Searched Time: 2.00us
 ==========
 Input ID: 187, Text: HANDLIFT
-Result: Found at SyllableDB ID 187, Searched Time: 2.00us
+Result: Found at SyllableDB ID 187, Searched Time: 1.00us
 ==========
 Input ID: 188, Text: HEATING
-Result: Found at SyllableDB ID 188, Searched Time: 1.00us
+Result: Found at SyllableDB ID 188, Searched Time: 3.00us
 ==========
 Input ID: 189, Text: HERBIO
-Result: Found at SyllableDB ID 189, Searched Time: 2.00us
+Result: Found at SyllableDB ID 189, Searched Time: 1.00us
 ==========
 Input ID: 190, Text: HONEST
-Result: Found at SyllableDB ID 190, Searched Time: 1.00us
+Result: Found at SyllableDB ID 190, Searched Time: 2.00us
 ==========
 Input ID: 191, Text: HOMES
-Result: Found at SyllableDB ID 191, Searched Time: 2.00us
+Result: Found at SyllableDB ID 191, Searched Time: 1.00us
 ==========
 Input ID: 192, Text: HOUTTUIN
-Result: Found at SyllableDB ID 192, Searched Time: 1.00us
+Result: Found at SyllableDB ID 192, Searched Time: 2.00us
 ==========
 Input ID: 193, Text: HUANDALHA
-Result: Found at SyllableDB ID 193, Searched Time: 2.00us
+Result: Found at SyllableDB ID 193, Searched Time: 1.00us
 ==========
 Input ID: 194, Text: IRASHI
-Result: Found at SyllableDB ID 194, Searched Time: 1.00us
+Result: Found at SyllableDB ID 194, Searched Time: 2.00us
 ==========
 Input ID: 195, Text: ISOMECH
-Result: Found at SyllableDB ID 195, Searched Time: 1.00us
+Result: Found at SyllableDB ID 195, Searched Time: 2.00us
 ==========
 Input ID: 196, Text: ITSA
-Result: Found at SyllableDB ID 196, Searched Time: 1.00us
+Result: Found at SyllableDB ID 196, Searched Time: 2.00us
 ==========
 Input ID: 197, Text: INDOORSWIM
-Result: Found at SyllableDB ID 197, Searched Time: 1.00us
+Result: Found at SyllableDB ID 197, Searched Time: 0.00us
 ==========
 Input ID: 198, Text: INGJUN
 Result: Found at SyllableDB ID 198, Searched Time: 1.00us
@@ -908,19 +908,19 @@ Input ID: 203, Text: JOSEPHINE
 Result: Found at SyllableDB ID 203, Searched Time: 1.00us
 ==========
 Input ID: 204, Text: JOCKING
-Result: Found at SyllableDB ID 204, Searched Time: 0.00us
+Result: Found at SyllableDB ID 204, Searched Time: 1.00us
 ==========
 Input ID: 205, Text: KAHA
 Result: Found at SyllableDB ID 205, Searched Time: 1.00us
 ==========
 Input ID: 206, Text: KALEN
-Result: Found at SyllableDB ID 206, Searched Time: 2.00us
+Result: Found at SyllableDB ID 206, Searched Time: 1.00us
 ==========
 Input ID: 207, Text: KAISUB
 Result: Found at SyllableDB ID 207, Searched Time: 1.00us
 ==========
 Input ID: 208, Text: KAMPHAENGSUB
-Result: Found at SyllableDB ID 208, Searched Time: 2.00us
+Result: Found at SyllableDB ID 208, Searched Time: 1.00us
 ==========
 Input ID: 209, Text: KANTTO
 Result: Found at SyllableDB ID 209, Searched Time: 1.00us
@@ -935,7 +935,7 @@ Input ID: 212, Text: KHUKHAN
 Result: Found at SyllableDB ID 212, Searched Time: 2.00us
 ==========
 Input ID: 213, Text: KIANGTA
-Result: Found at SyllableDB ID 213, Searched Time: 3.00us
+Result: Found at SyllableDB ID 213, Searched Time: 1.00us
 ==========
 Input ID: 214, Text: KINDERMATH
 Result: Found at SyllableDB ID 214, Searched Time: 1.00us
@@ -944,16 +944,16 @@ Input ID: 215, Text: KLHLONG
 Result: Found at SyllableDB ID 215, Searched Time: 2.00us
 ==========
 Input ID: 216, Text: KOHENG
-Result: Found at SyllableDB ID 216, Searched Time: 0.00us
+Result: Found at SyllableDB ID 216, Searched Time: 1.00us
 ==========
 Input ID: 217, Text: KONCHOB
-Result: Found at SyllableDB ID 217, Searched Time: 1.00us
+Result: Found at SyllableDB ID 217, Searched Time: 2.00us
 ==========
 Input ID: 218, Text: KONS
-Result: Found at SyllableDB ID 218, Searched Time: 1.00us
+Result: Found at SyllableDB ID 218, Searched Time: 0.00us
 ==========
 Input ID: 219, Text: KONGGADEN
-Result: Found at SyllableDB ID 219, Searched Time: 1.00us
+Result: Found at SyllableDB ID 219, Searched Time: 2.00us
 ==========
 Input ID: 220, Text: KRAPHO
 Result: Found at SyllableDB ID 220, Searched Time: 1.00us
@@ -965,7 +965,7 @@ Input ID: 222, Text: KWANGSUB
 Result: Found at SyllableDB ID 222, Searched Time: 1.00us
 ==========
 Input ID: 223, Text: LAFEL
-Result: Found at SyllableDB ID 223, Searched Time: 0.00us
+Result: Found at SyllableDB ID 223, Searched Time: 1.00us
 ==========
 Input ID: 224, Text: LATHATSUB
 Result: Found at SyllableDB ID 224, Searched Time: 1.00us
@@ -977,7 +977,7 @@ Input ID: 226, Text: LAYER
 Result: Found at SyllableDB ID 226, Searched Time: 1.00us
 ==========
 Input ID: 227, Text: LIHAI
-Result: Found at SyllableDB ID 227, Searched Time: 2.00us
+Result: Found at SyllableDB ID 227, Searched Time: 1.00us
 ==========
 Input ID: 228, Text: LIETIE
 Result: Found at SyllableDB ID 228, Searched Time: 1.00us
@@ -986,37 +986,37 @@ Input ID: 229, Text: LINDER
 Result: Found at SyllableDB ID 229, Searched Time: 1.00us
 ==========
 Input ID: 230, Text: LINKON
-Result: Found at SyllableDB ID 230, Searched Time: 3.00us
+Result: Found at SyllableDB ID 230, Searched Time: 1.00us
 ==========
 Input ID: 231, Text: LOCKSUB
-Result: Found at SyllableDB ID 231, Searched Time: 1.00us
+Result: Found at SyllableDB ID 231, Searched Time: 2.00us
 ==========
 Input ID: 232, Text: LOFTY
 Result: Found at SyllableDB ID 232, Searched Time: 2.00us
 ==========
 Input ID: 233, Text: LORED
-Result: Found at SyllableDB ID 233, Searched Time: 1.00us
+Result: Found at SyllableDB ID 233, Searched Time: 2.00us
 ==========
 Input ID: 234, Text: LUZERNE
-Result: Found at SyllableDB ID 234, Searched Time: 2.00us
+Result: Found at SyllableDB ID 234, Searched Time: 1.00us
 ==========
 Input ID: 235, Text: LUNGLAO
 Result: Found at SyllableDB ID 235, Searched Time: 1.00us
 ==========
 Input ID: 236, Text: MABER
-Result: Found at SyllableDB ID 236, Searched Time: 2.00us
+Result: Found at SyllableDB ID 236, Searched Time: 1.00us
 ==========
 Input ID: 237, Text: MACHU
 Result: Found at SyllableDB ID 237, Searched Time: 1.00us
 ==========
 Input ID: 238, Text: MADEINCHIANGRAI
-Result: Found at SyllableDB ID 238, Searched Time: 2.00us
+Result: Found at SyllableDB ID 238, Searched Time: 1.00us
 ==========
 Input ID: 239, Text: MAKHUEA
 Result: Found at SyllableDB ID 239, Searched Time: 1.00us
 ==========
 Input ID: 240, Text: MATRIN
-Result: Found at SyllableDB ID 240, Searched Time: 2.00us
+Result: Found at SyllableDB ID 240, Searched Time: 1.00us
 ==========
 Input ID: 241, Text: MAIPLA
 Result: Found at SyllableDB ID 241, Searched Time: 1.00us
@@ -1025,7 +1025,7 @@ Input ID: 242, Text: MAIRIM
 Result: Found at SyllableDB ID 242, Searched Time: 1.00us
 ==========
 Input ID: 243, Text: MANSA
-Result: Found at SyllableDB ID 243, Searched Time: 1.00us
+Result: Found at SyllableDB ID 243, Searched Time: 2.00us
 ==========
 Input ID: 244, Text: MARBELLO
 Result: Found at SyllableDB ID 244, Searched Time: 1.00us
@@ -1037,7 +1037,7 @@ Input ID: 246, Text: MASSA
 Result: Found at SyllableDB ID 246, Searched Time: 1.00us
 ==========
 Input ID: 247, Text: MASSAG
-Result: Found at SyllableDB ID 247, Searched Time: 0.00us
+Result: Found at SyllableDB ID 247, Searched Time: 1.00us
 ==========
 Input ID: 248, Text: MCKA
 Result: Found at SyllableDB ID 248, Searched Time: 1.00us
@@ -1049,76 +1049,76 @@ Input ID: 250, Text: MINERY
 Result: Found at SyllableDB ID 250, Searched Time: 1.00us
 ==========
 Input ID: 251, Text: MIYO
-Result: Found at SyllableDB ID 251, Searched Time: 2.00us
+Result: Found at SyllableDB ID 251, Searched Time: 1.00us
 ==========
 Input ID: 252, Text: MISTI
 Result: Found at SyllableDB ID 252, Searched Time: 2.00us
 ==========
 Input ID: 253, Text: MITCHELL
-Result: Found at SyllableDB ID 253, Searched Time: 2.00us
+Result: Found at SyllableDB ID 253, Searched Time: 1.00us
 ==========
 Input ID: 254, Text: MOCKTAIL
-Result: Found at SyllableDB ID 254, Searched Time: 1.00us
+Result: Found at SyllableDB ID 254, Searched Time: 2.00us
 ==========
 Input ID: 255, Text: MOLTHIP
-Result: Found at SyllableDB ID 255, Searched Time: 1.00us
+Result: Found at SyllableDB ID 255, Searched Time: 2.00us
 ==========
 Input ID: 256, Text: MONTHONG
-Result: Found at SyllableDB ID 256, Searched Time: 2.00us
+Result: Found at SyllableDB ID 256, Searched Time: 1.00us
 ==========
 Input ID: 257, Text: MONGKOLCHAI
 Result: Found at SyllableDB ID 257, Searched Time: 2.00us
 ==========
 Input ID: 258, Text: MOULDING
-Result: Found at SyllableDB ID 258, Searched Time: 2.00us
+Result: Found at SyllableDB ID 258, Searched Time: 1.00us
 ==========
 Input ID: 259, Text: MOZZARELLA
-Result: Found at SyllableDB ID 259, Searched Time: 1.00us
+Result: Found at SyllableDB ID 259, Searched Time: 2.00us
 ==========
 Input ID: 260, Text: MUHUN
-Result: Found at SyllableDB ID 260, Searched Time: 2.00us
+Result: Found at SyllableDB ID 260, Searched Time: 1.00us
 ==========
 Input ID: 261, Text: MUANGAKE
 Result: Found at SyllableDB ID 261, Searched Time: 1.00us
 ==========
 Input ID: 262, Text: MUNTERS
-Result: Found at SyllableDB ID 262, Searched Time: 3.00us
+Result: Found at SyllableDB ID 262, Searched Time: 1.00us
 ==========
 Input ID: 263, Text: NACHUEK
-Result: Found at SyllableDB ID 263, Searched Time: 1.00us
+Result: Found at SyllableDB ID 263, Searched Time: 2.00us
 ==========
 Input ID: 264, Text: NAPHIN
 Result: Found at SyllableDB ID 264, Searched Time: 1.00us
 ==========
 Input ID: 265, Text: NAPHOUM
-Result: Found at SyllableDB ID 265, Searched Time: 1.00us
+Result: Found at SyllableDB ID 265, Searched Time: 2.00us
 ==========
 Input ID: 266, Text: NATED
 Result: Found at SyllableDB ID 266, Searched Time: 1.00us
 ==========
 Input ID: 267, Text: NEOMAC
-Result: Found at SyllableDB ID 267, Searched Time: 0.00us
+Result: Found at SyllableDB ID 267, Searched Time: 2.00us
 ==========
 Input ID: 268, Text: NERNTA
 Result: Found at SyllableDB ID 268, Searched Time: 1.00us
 ==========
 Input ID: 269, Text: NETTOYER
-Result: Found at SyllableDB ID 269, Searched Time: 1.00us
+Result: Found at SyllableDB ID 269, Searched Time: 2.00us
 ==========
 Input ID: 270, Text: NICRICE
 Result: Found at SyllableDB ID 270, Searched Time: 1.00us
 ==========
 Input ID: 271, Text: NOFFEE
-Result: Found at SyllableDB ID 271, Searched Time: 1.00us
+Result: Found at SyllableDB ID 271, Searched Time: 2.00us
 ==========
 Input ID: 272, Text: NONGNOO
 Result: Found at SyllableDB ID 272, Searched Time: 1.00us
 ==========
 Input ID: 273, Text: NOONSUB
-Result: Found at SyllableDB ID 273, Searched Time: 1.00us
+Result: Found at SyllableDB ID 273, Searched Time: 2.00us
 ==========
 Input ID: 274, Text: NUCHITSUB
-Result: Found at SyllableDB ID 274, Searched Time: 1.00us
+Result: Found at SyllableDB ID 274, Searched Time: 0.00us
 ==========
 Input ID: 275, Text: NUNET
 Result: Found at SyllableDB ID 275, Searched Time: 2.00us
@@ -1127,7 +1127,7 @@ Input ID: 276, Text: NUTRA
 Result: Found at SyllableDB ID 276, Searched Time: 1.00us
 ==========
 Input ID: 277, Text: NUALCHANT
-Result: Found at SyllableDB ID 277, Searched Time: 2.00us
+Result: Found at SyllableDB ID 277, Searched Time: 3.00us
 ==========
 Input ID: 278, Text: NYTER
 Result: Found at SyllableDB ID 278, Searched Time: 1.00us
@@ -1136,7 +1136,7 @@ Input ID: 279, Text: OCEANIA
 Result: Found at SyllableDB ID 279, Searched Time: 2.00us
 ==========
 Input ID: 280, Text: OREO
-Result: Found at SyllableDB ID 280, Searched Time: 1.00us
+Result: Found at SyllableDB ID 280, Searched Time: 0.00us
 ==========
 Input ID: 281, Text: OFFICETHAI
 Result: Found at SyllableDB ID 281, Searched Time: 2.00us
@@ -1145,13 +1145,13 @@ Input ID: 282, Text: PPALM
 Result: Found at SyllableDB ID 282, Searched Time: 1.00us
 ==========
 Input ID: 283, Text: PSHIRE
-Result: Found at SyllableDB ID 283, Searched Time: 2.00us
+Result: Found at SyllableDB ID 283, Searched Time: 1.00us
 ==========
 Input ID: 284, Text: PWORKS
 Result: Found at SyllableDB ID 284, Searched Time: 1.00us
 ==========
 Input ID: 285, Text: PATHUAN
-Result: Found at SyllableDB ID 285, Searched Time: 1.00us
+Result: Found at SyllableDB ID 285, Searched Time: 0.00us
 ==========
 Input ID: 286, Text: PAYAYEN
 Result: Found at SyllableDB ID 286, Searched Time: 1.00us
@@ -1160,7 +1160,7 @@ Input ID: 287, Text: PAIROJ
 Result: Found at SyllableDB ID 287, Searched Time: 2.00us
 ==========
 Input ID: 288, Text: PANTHONG
-Result: Found at SyllableDB ID 288, Searched Time: 0.00us
+Result: Found at SyllableDB ID 288, Searched Time: 1.00us
 ==========
 Input ID: 289, Text: PARMA
 Result: Found at SyllableDB ID 289, Searched Time: 1.00us
@@ -1169,7 +1169,7 @@ Input ID: 290, Text: PARS
 Result: Found at SyllableDB ID 290, Searched Time: 1.00us
 ==========
 Input ID: 291, Text: PASSA
-Result: Found at SyllableDB ID 291, Searched Time: 1.00us
+Result: Found at SyllableDB ID 291, Searched Time: 0.00us
 ==========
 Input ID: 292, Text: PASEYA
 Result: Found at SyllableDB ID 292, Searched Time: 1.00us
@@ -1178,19 +1178,19 @@ Input ID: 293, Text: PASHMY
 Result: Found at SyllableDB ID 293, Searched Time: 1.00us
 ==========
 Input ID: 294, Text: PAULO
-Result: Found at SyllableDB ID 294, Searched Time: 2.00us
+Result: Found at SyllableDB ID 294, Searched Time: 1.00us
 ==========
 Input ID: 295, Text: PEABERRY
-Result: Found at SyllableDB ID 295, Searched Time: 0.00us
+Result: Found at SyllableDB ID 295, Searched Time: 1.00us
 ==========
 Input ID: 296, Text: PEERA
-Result: Found at SyllableDB ID 296, Searched Time: 2.00us
+Result: Found at SyllableDB ID 296, Searched Time: 8.00us
 ==========
 Input ID: 297, Text: PHANETSUB
 Result: Found at SyllableDB ID 297, Searched Time: 1.00us
 ==========
 Input ID: 298, Text: PHAYAPHANSUB
-Result: Found at SyllableDB ID 298, Searched Time: 2.00us
+Result: Found at SyllableDB ID 298, Searched Time: 1.00us
 ==========
 Input ID: 299, Text: PHANTU
 Result: Found at SyllableDB ID 299, Searched Time: 2.00us
@@ -1199,10 +1199,10 @@ Input ID: 300, Text: PHITHEN
 Result: Found at SyllableDB ID 300, Searched Time: 1.00us
 ==========
 Input ID: 301, Text: PHONICS
-Result: Found at SyllableDB ID 301, Searched Time: 1.00us
+Result: Found at SyllableDB ID 301, Searched Time: 2.00us
 ==========
 Input ID: 302, Text: PHORNTHIP
-Result: Found at SyllableDB ID 302, Searched Time: 2.00us
+Result: Found at SyllableDB ID 302, Searched Time: 1.00us
 ==========
 Input ID: 303, Text: PHUKLENGLOM
 Result: Found at SyllableDB ID 303, Searched Time: 2.00us
@@ -1211,13 +1211,13 @@ Input ID: 304, Text: PHUNSUB
 Result: Found at SyllableDB ID 304, Searched Time: 1.00us
 ==========
 Input ID: 305, Text: PICHITSUB
-Result: Found at SyllableDB ID 305, Searched Time: 2.00us
+Result: Found at SyllableDB ID 305, Searched Time: 1.00us
 ==========
 Input ID: 306, Text: PITHAK
 Result: Found at SyllableDB ID 306, Searched Time: 2.00us
 ==========
 Input ID: 307, Text: PIASTRA
-Result: Found at SyllableDB ID 307, Searched Time: 2.00us
+Result: Found at SyllableDB ID 307, Searched Time: 0.00us
 ==========
 Input ID: 308, Text: PICKER
 Result: Found at SyllableDB ID 308, Searched Time: 1.00us
@@ -1232,7 +1232,7 @@ Input ID: 311, Text: PLATED
 Result: Found at SyllableDB ID 311, Searched Time: 1.00us
 ==========
 Input ID: 312, Text: PLAYS
-Result: Found at SyllableDB ID 312, Searched Time: 0.00us
+Result: Found at SyllableDB ID 312, Searched Time: 1.00us
 ==========
 Input ID: 313, Text: POTHAI
 Result: Found at SyllableDB ID 313, Searched Time: 1.00us
@@ -1241,61 +1241,61 @@ Input ID: 314, Text: POYO
 Result: Found at SyllableDB ID 314, Searched Time: 1.00us
 ==========
 Input ID: 315, Text: POLEONE
-Result: Found at SyllableDB ID 315, Searched Time: 2.00us
+Result: Found at SyllableDB ID 315, Searched Time: 1.00us
 ==========
 Input ID: 316, Text: PORNPATTA
-Result: Found at SyllableDB ID 316, Searched Time: 3.00us
+Result: Found at SyllableDB ID 316, Searched Time: 1.00us
 ==========
 Input ID: 317, Text: PORTED
-Result: Found at SyllableDB ID 317, Searched Time: 2.00us
+Result: Found at SyllableDB ID 317, Searched Time: 1.00us
 ==========
 Input ID: 318, Text: PORTSUB
-Result: Found at SyllableDB ID 318, Searched Time: 2.00us
+Result: Found at SyllableDB ID 318, Searched Time: 1.00us
 ==========
 Input ID: 319, Text: PRACHUM
-Result: Found at SyllableDB ID 319, Searched Time: 2.00us
+Result: Found at SyllableDB ID 319, Searched Time: 1.00us
 ==========
 Input ID: 320, Text: PRAEWAR
-Result: Found at SyllableDB ID 320, Searched Time: 3.00us
+Result: Found at SyllableDB ID 320, Searched Time: 1.00us
 ==========
 Input ID: 321, Text: PRISES
 Result: Found at SyllableDB ID 321, Searched Time: 1.00us
 ==========
 Input ID: 322, Text: PRODECTIVE
-Result: Found at SyllableDB ID 322, Searched Time: 2.00us
+Result: Found at SyllableDB ID 322, Searched Time: 1.00us
 ==========
 Input ID: 323, Text: PROWELL
 Result: Found at SyllableDB ID 323, Searched Time: 1.00us
 ==========
 Input ID: 324, Text: PUYUT
-Result: Found at SyllableDB ID 324, Searched Time: 2.00us
+Result: Found at SyllableDB ID 324, Searched Time: 0.00us
 ==========
 Input ID: 325, Text: PUNGSOD
-Result: Found at SyllableDB ID 325, Searched Time: 2.00us
+Result: Found at SyllableDB ID 325, Searched Time: 1.00us
 ==========
 Input ID: 326, Text: PUTTHA
 Result: Found at SyllableDB ID 326, Searched Time: 1.00us
 ==========
 Input ID: 327, Text: RMAN
-Result: Found at SyllableDB ID 327, Searched Time: 2.00us
+Result: Found at SyllableDB ID 327, Searched Time: 1.00us
 ==========
 Input ID: 328, Text: RSU
-Result: Found at SyllableDB ID 328, Searched Time: 2.00us
+Result: Found at SyllableDB ID 328, Searched Time: 1.00us
 ==========
 Input ID: 329, Text: RACHAKHWAI
-Result: Found at SyllableDB ID 329, Searched Time: 2.00us
+Result: Found at SyllableDB ID 329, Searched Time: 1.00us
 ==========
 Input ID: 330, Text: RAHOM
-Result: Found at SyllableDB ID 330, Searched Time: 1.00us
+Result: Found at SyllableDB ID 330, Searched Time: 0.00us
 ==========
 Input ID: 331, Text: RAHUE
-Result: Found at SyllableDB ID 331, Searched Time: 2.00us
+Result: Found at SyllableDB ID 331, Searched Time: 1.00us
 ==========
 Input ID: 332, Text: RAGEFRESH
-Result: Found at SyllableDB ID 332, Searched Time: 1.00us
+Result: Found at SyllableDB ID 332, Searched Time: 2.00us
 ==========
 Input ID: 333, Text: RAMPHAN
-Result: Found at SyllableDB ID 333, Searched Time: 0.00us
+Result: Found at SyllableDB ID 333, Searched Time: 1.00us
 ==========
 Input ID: 334, Text: RELEX
 Result: Found at SyllableDB ID 334, Searched Time: 1.00us
@@ -1310,10 +1310,10 @@ Input ID: 337, Text: RICHART
 Result: Found at SyllableDB ID 337, Searched Time: 1.00us
 ==========
 Input ID: 338, Text: RITHONSUB
-Result: Found at SyllableDB ID 338, Searched Time: 8.00us
+Result: Found at SyllableDB ID 338, Searched Time: 7.00us
 ==========
 Input ID: 339, Text: RIVERS
-Result: Found at SyllableDB ID 339, Searched Time: 1.00us
+Result: Found at SyllableDB ID 339, Searched Time: 2.00us
 ==========
 Input ID: 340, Text: RIENSUB
 Result: Found at SyllableDB ID 340, Searched Time: 1.00us
@@ -1343,7 +1343,7 @@ Input ID: 348, Text: SACHI
 Result: Found at SyllableDB ID 348, Searched Time: 1.00us
 ==========
 Input ID: 349, Text: SAHATSAKHANSUB
-Result: Found at SyllableDB ID 349, Searched Time: 1.00us
+Result: Found at SyllableDB ID 349, Searched Time: 2.00us
 ==========
 Input ID: 350, Text: SAKHO
 Result: Found at SyllableDB ID 350, Searched Time: 1.00us
@@ -1361,13 +1361,13 @@ Input ID: 354, Text: SALSA
 Result: Found at SyllableDB ID 354, Searched Time: 1.00us
 ==========
 Input ID: 355, Text: SAMBUSEK
-Result: Found at SyllableDB ID 355, Searched Time: 1.00us
+Result: Found at SyllableDB ID 355, Searched Time: 0.00us
 ==========
 Input ID: 356, Text: SANGO
 Result: Found at SyllableDB ID 356, Searched Time: 1.00us
 ==========
 Input ID: 357, Text: SAOSUB
-Result: Found at SyllableDB ID 357, Searched Time: 1.00us
+Result: Found at SyllableDB ID 357, Searched Time: 2.00us
 ==========
 Input ID: 358, Text: SASTER
 Result: Found at SyllableDB ID 358, Searched Time: 1.00us
@@ -1388,37 +1388,37 @@ Input ID: 363, Text: SHAIYO
 Result: Found at SyllableDB ID 363, Searched Time: 1.00us
 ==========
 Input ID: 364, Text: SHINSEN
-Result: Found at SyllableDB ID 364, Searched Time: 2.00us
+Result: Found at SyllableDB ID 364, Searched Time: 1.00us
 ==========
 Input ID: 365, Text: SHINSUNG
 Result: Found at SyllableDB ID 365, Searched Time: 1.00us
 ==========
 Input ID: 366, Text: SIKRINTARN
-Result: Found at SyllableDB ID 366, Searched Time: 2.00us
+Result: Found at SyllableDB ID 366, Searched Time: 1.00us
 ==========
 Input ID: 367, Text: SIAMNATHAN
 Result: Found at SyllableDB ID 367, Searched Time: 1.00us
 ==========
 Input ID: 368, Text: SINCHAIHUA
-Result: Found at SyllableDB ID 368, Searched Time: 2.00us
+Result: Found at SyllableDB ID 368, Searched Time: 1.00us
 ==========
 Input ID: 369, Text: SINDY
 Result: Found at SyllableDB ID 369, Searched Time: 1.00us
 ==========
 Input ID: 370, Text: SKEWER
-Result: Found at SyllableDB ID 370, Searched Time: 2.00us
+Result: Found at SyllableDB ID 370, Searched Time: 1.00us
 ==========
 Input ID: 371, Text: SLAVEN
 Result: Found at SyllableDB ID 371, Searched Time: 1.00us
 ==========
 Input ID: 372, Text: SMALLER
-Result: Found at SyllableDB ID 372, Searched Time: 2.00us
+Result: Found at SyllableDB ID 372, Searched Time: 1.00us
 ==========
 Input ID: 373, Text: SMOKED
 Result: Found at SyllableDB ID 373, Searched Time: 1.00us
 ==========
 Input ID: 374, Text: SOETSUB
-Result: Found at SyllableDB ID 374, Searched Time: 2.00us
+Result: Found at SyllableDB ID 374, Searched Time: 1.00us
 ==========
 Input ID: 375, Text: SOFTTEXT
 Result: Found at SyllableDB ID 375, Searched Time: 1.00us
@@ -1430,28 +1430,28 @@ Input ID: 377, Text: SPARROWSHOUSE
 Result: Found at SyllableDB ID 377, Searched Time: 1.00us
 ==========
 Input ID: 378, Text: SQUIDY
-Result: Found at SyllableDB ID 378, Searched Time: 1.00us
+Result: Found at SyllableDB ID 378, Searched Time: 0.00us
 ==========
 Input ID: 379, Text: SRIMEX
 Result: Found at SyllableDB ID 379, Searched Time: 1.00us
 ==========
 Input ID: 380, Text: STACKER
-Result: Found at SyllableDB ID 380, Searched Time: 3.00us
+Result: Found at SyllableDB ID 380, Searched Time: 1.00us
 ==========
 Input ID: 381, Text: STANDING
-Result: Found at SyllableDB ID 381, Searched Time: 1.00us
+Result: Found at SyllableDB ID 381, Searched Time: 2.00us
 ==========
 Input ID: 382, Text: STEAMED
 Result: Found at SyllableDB ID 382, Searched Time: 1.00us
 ==========
 Input ID: 383, Text: STEWED
-Result: Found at SyllableDB ID 383, Searched Time: 1.00us
+Result: Found at SyllableDB ID 383, Searched Time: 2.00us
 ==========
 Input ID: 384, Text: STONEHEAD
 Result: Found at SyllableDB ID 384, Searched Time: 1.00us
 ==========
 Input ID: 385, Text: STUFFED
-Result: Found at SyllableDB ID 385, Searched Time: 1.00us
+Result: Found at SyllableDB ID 385, Searched Time: 2.00us
 ==========
 Input ID: 386, Text: SUCHINKO
 Result: Found at SyllableDB ID 386, Searched Time: 1.00us
@@ -1463,10 +1463,10 @@ Input ID: 388, Text: SUTHATSUB
 Result: Found at SyllableDB ID 388, Searched Time: 1.00us
 ==========
 Input ID: 389, Text: SUADA
-Result: Found at SyllableDB ID 389, Searched Time: 2.00us
+Result: Found at SyllableDB ID 389, Searched Time: 1.00us
 ==========
 Input ID: 390, Text: SUKRUTHAI
-Result: Found at SyllableDB ID 390, Searched Time: 1.00us
+Result: Found at SyllableDB ID 390, Searched Time: 2.00us
 ==========
 Input ID: 391, Text: TALEG
 Result: Found at SyllableDB ID 391, Searched Time: 2.00us
@@ -1481,192 +1481,24 @@ Input ID: 394, Text: TARROT
 Result: Found at SyllableDB ID 394, Searched Time: 1.00us
 ==========
 Input ID: 395, Text: TECHNOL
-Result: Found at SyllableDB ID 395, Searched Time: 2.00us
+Result: Found at SyllableDB ID 395, Searched Time: 1.00us
 ==========
 Input ID: 396, Text: TESTING
 Result: Found at SyllableDB ID 396, Searched Time: 1.00us
 ==========
 Input ID: 397, Text: THAILASER
-Result: Found at SyllableDB ID 397, Searched Time: 2.00us
+Result: Found at SyllableDB ID 397, Searched Time: 1.00us
 ==========
 Input ID: 398, Text: THIMSIAM
-Result: Found at SyllableDB ID 398, Searched Time: 2.00us
+Result: Found at SyllableDB ID 398, Searched Time: 1.00us
 ==========
 Input ID: 399, Text: THOMS
-Result: Found at SyllableDB ID 399, Searched Time: 2.00us
+Result: Found at SyllableDB ID 399, Searched Time: 1.00us
 ==========
 Input ID: 400, Text: TIZER
 Result: Found at SyllableDB ID 400, Searched Time: 1.00us
 ==========
 Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 4.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 4.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 3.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 3.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 1799, Text: FINM
@@ -1682,10 +1514,145 @@ Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 1.00us
@@ -1709,7 +1676,40 @@ Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 1.00us
@@ -1721,40 +1721,13 @@ Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1799, Text: FINM
-Result: Not Found, Searched Time: 2.00us
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 0.00us
@@ -1764,6 +1737,33 @@ Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1799, Text: FINM
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1799, Text: FINM
 Result: Not Found, Searched Time: 0.00us
@@ -1775,13 +1775,13 @@ Input ID: 402, Text: TIONSUB
 Result: Found at SyllableDB ID 402, Searched Time: 1.00us
 ==========
 Input ID: 403, Text: TONGYANG
-Result: Found at SyllableDB ID 403, Searched Time: 2.00us
+Result: Found at SyllableDB ID 403, Searched Time: 1.00us
 ==========
 Input ID: 404, Text: TOOLING
-Result: Found at SyllableDB ID 404, Searched Time: 9.00us
+Result: Found at SyllableDB ID 404, Searched Time: 1.00us
 ==========
 Input ID: 405, Text: TORTELLI
-Result: Found at SyllableDB ID 405, Searched Time: 2.00us
+Result: Found at SyllableDB ID 405, Searched Time: 1.00us
 ==========
 Input ID: 406, Text: TOULOUSE
 Result: Found at SyllableDB ID 406, Searched Time: 1.00us
@@ -1793,25 +1793,25 @@ Input ID: 408, Text: TRANSPORTA
 Result: Found at SyllableDB ID 408, Searched Time: 1.00us
 ==========
 Input ID: 409, Text: TRANSDUCER
-Result: Found at SyllableDB ID 409, Searched Time: 2.00us
+Result: Found at SyllableDB ID 409, Searched Time: 1.00us
 ==========
 Input ID: 410, Text: TRENDZ
 Result: Found at SyllableDB ID 410, Searched Time: 1.00us
 ==========
 Input ID: 411, Text: TRISTAR
-Result: Found at SyllableDB ID 411, Searched Time: 2.00us
+Result: Found at SyllableDB ID 411, Searched Time: 1.00us
 ==========
 Input ID: 412, Text: UNISEARCH
 Result: Found at SyllableDB ID 412, Searched Time: 1.00us
 ==========
 Input ID: 413, Text: USUB
-Result: Found at SyllableDB ID 413, Searched Time: 2.00us
+Result: Found at SyllableDB ID 413, Searched Time: 1.00us
 ==========
 Input ID: 414, Text: UNSLEEP
 Result: Found at SyllableDB ID 414, Searched Time: 1.00us
 ==========
 Input ID: 415, Text: UTTHAYANSUB
-Result: Found at SyllableDB ID 415, Searched Time: 2.00us
+Result: Found at SyllableDB ID 415, Searched Time: 1.00us
 ==========
 Input ID: 416, Text: VATED
 Result: Found at SyllableDB ID 416, Searched Time: 1.00us
@@ -1820,7 +1820,7 @@ Input ID: 417, Text: VEENUS
 Result: Found at SyllableDB ID 417, Searched Time: 2.00us
 ==========
 Input ID: 418, Text: VILLAGES
-Result: Found at SyllableDB ID 418, Searched Time: 1.00us
+Result: Found at SyllableDB ID 418, Searched Time: 2.00us
 ==========
 Input ID: 419, Text: WADEEUBON
 Result: Found at SyllableDB ID 419, Searched Time: 1.00us
@@ -1829,7 +1829,7 @@ Input ID: 420, Text: WAENGSUB
 Result: Found at SyllableDB ID 420, Searched Time: 1.00us
 ==========
 Input ID: 421, Text: WANSAR
-Result: Found at SyllableDB ID 421, Searched Time: 2.00us
+Result: Found at SyllableDB ID 421, Searched Time: 1.00us
 ==========
 Input ID: 422, Text: WANGTORSUB
 Result: Found at SyllableDB ID 422, Searched Time: 1.00us
@@ -1844,58 +1844,58 @@ Input ID: 425, Text: WEPLUS
 Result: Found at SyllableDB ID 425, Searched Time: 2.00us
 ==========
 Input ID: 426, Text: WIHARN
-Result: Found at SyllableDB ID 426, Searched Time: 1.00us
+Result: Found at SyllableDB ID 426, Searched Time: 2.00us
 ==========
 Input ID: 427, Text: WIANGSI
-Result: Found at SyllableDB ID 427, Searched Time: 2.00us
+Result: Found at SyllableDB ID 427, Searched Time: 0.00us
 ==========
 Input ID: 428, Text: WIANGSUB
 Result: Found at SyllableDB ID 428, Searched Time: 1.00us
 ==========
 Input ID: 429, Text: WIENKAPHANGSUB
-Result: Found at SyllableDB ID 429, Searched Time: 2.00us
+Result: Found at SyllableDB ID 429, Searched Time: 1.00us
 ==========
 Input ID: 430, Text: WINSENT
 Result: Found at SyllableDB ID 430, Searched Time: 1.00us
 ==========
 Input ID: 431, Text: WONGIN
-Result: Found at SyllableDB ID 431, Searched Time: 2.00us
+Result: Found at SyllableDB ID 431, Searched Time: 1.00us
 ==========
 Input ID: 432, Text: YTAPE
 Result: Found at SyllableDB ID 432, Searched Time: 1.00us
 ==========
 Input ID: 433, Text: YASSA
-Result: Found at SyllableDB ID 433, Searched Time: 2.00us
+Result: Found at SyllableDB ID 433, Searched Time: 1.00us
 ==========
 Input ID: 434, Text: YOGHURT
-Result: Found at SyllableDB ID 434, Searched Time: 0.00us
+Result: Found at SyllableDB ID 434, Searched Time: 1.00us
 ==========
 Input ID: 435, Text: ZAFARANI
-Result: Found at SyllableDB ID 435, Searched Time: 2.00us
+Result: Found at SyllableDB ID 435, Searched Time: 1.00us
 ==========
 Input ID: 436, Text: ZIOSA
 Result: Found at SyllableDB ID 436, Searched Time: 1.00us
 ==========
 Input ID: 437, Text: ZUREE
-Result: Found at SyllableDB ID 437, Searched Time: 2.00us
+Result: Found at SyllableDB ID 437, Searched Time: 1.00us
 ==========
 Input ID: 438, Text: ก็วิ่งลงสระ
-Result: Found at SyllableDB ID 438, Searched Time: 3.00us
+Result: Found at SyllableDB ID 438, Searched Time: 2.00us
 ==========
 Input ID: 439, Text: ก็วิ่งหลบฝน
-Result: Found at SyllableDB ID 439, Searched Time: 3.00us
+Result: Found at SyllableDB ID 439, Searched Time: 2.00us
 ==========
 Input ID: 440, Text: ก็อร
 Result: Found at SyllableDB ID 440, Searched Time: 1.00us
 ==========
 Input ID: 441, Text: กร้อสอย
-Result: Found at SyllableDB ID 441, Searched Time: 2.00us
+Result: Found at SyllableDB ID 441, Searched Time: 1.00us
 ==========
 Input ID: 442, Text: กรอบจน
 Result: Found at SyllableDB ID 442, Searched Time: 1.00us
 ==========
 Input ID: 443, Text: กรอบราด
-Result: Found at SyllableDB ID 443, Searched Time: 2.00us
+Result: Found at SyllableDB ID 443, Searched Time: 1.00us
 ==========
 Input ID: 444, Text: กริลล์จน
 Result: Found at SyllableDB ID 444, Searched Time: 1.00us
@@ -1907,10 +1907,10 @@ Input ID: 446, Text: กลมกล่อมลง
 Result: Found at SyllableDB ID 446, Searched Time: 1.00us
 ==========
 Input ID: 447, Text: กลมกล่อมหอมครบ
-Result: Found at SyllableDB ID 447, Searched Time: 3.00us
+Result: Found at SyllableDB ID 447, Searched Time: 2.00us
 ==========
 Input ID: 448, Text: กลับกลิ่น
-Result: Found at SyllableDB ID 448, Searched Time: 1.00us
+Result: Found at SyllableDB ID 448, Searched Time: 2.00us
 ==========
 Input ID: 449, Text: กลับส
 Result: Found at SyllableDB ID 449, Searched Time: 2.00us
@@ -1922,16 +1922,16 @@ Input ID: 451, Text: กลิ่นหอมกรุ่น
 Result: Found at SyllableDB ID 451, Searched Time: 2.00us
 ==========
 Input ID: 452, Text: กลิ่มหอม
-Result: Found at SyllableDB ID 452, Searched Time: 2.00us
+Result: Found at SyllableDB ID 452, Searched Time: 1.00us
 ==========
 Input ID: 453, Text: กวางงอย
-Result: Found at SyllableDB ID 453, Searched Time: 1.00us
+Result: Found at SyllableDB ID 453, Searched Time: 2.00us
 ==========
 Input ID: 454, Text: กวางหมัก
 Result: Found at SyllableDB ID 454, Searched Time: 1.00us
 ==========
 Input ID: 455, Text: กอกผสม
-Result: Found at SyllableDB ID 455, Searched Time: 2.00us
+Result: Found at SyllableDB ID 455, Searched Time: 3.00us
 ==========
 Input ID: 456, Text: กอดอก
 Result: Found at SyllableDB ID 456, Searched Time: 2.00us
@@ -1943,55 +1943,55 @@ Input ID: 458, Text: ก้อยหมูทอด
 Result: Found at SyllableDB ID 458, Searched Time: 1.00us
 ==========
 Input ID: 459, Text: กังวลประ
-Result: Found at SyllableDB ID 459, Searched Time: 1.00us
+Result: Found at SyllableDB ID 459, Searched Time: 2.00us
 ==========
 Input ID: 460, Text: กัดลง
 Result: Found at SyllableDB ID 460, Searched Time: 1.00us
 ==========
 Input ID: 461, Text: กันก
-Result: Found at SyllableDB ID 461, Searched Time: 1.00us
+Result: Found at SyllableDB ID 461, Searched Time: 2.00us
 ==========
 Input ID: 462, Text: กันจริง
 Result: Found at SyllableDB ID 462, Searched Time: 1.00us
 ==========
 Input ID: 463, Text: กันตรง
-Result: Found at SyllableDB ID 463, Searched Time: 0.00us
+Result: Found at SyllableDB ID 463, Searched Time: 3.00us
 ==========
 Input ID: 464, Text: กันพอสมควร
 Result: Found at SyllableDB ID 464, Searched Time: 2.00us
 ==========
 Input ID: 465, Text: กันสอง
-Result: Found at SyllableDB ID 465, Searched Time: 2.00us
+Result: Found at SyllableDB ID 465, Searched Time: 3.00us
 ==========
 Input ID: 466, Text: กับกบ
-Result: Found at SyllableDB ID 466, Searched Time: 2.00us
+Result: Found at SyllableDB ID 466, Searched Time: 1.00us
 ==========
 Input ID: 467, Text: กับกล่าว
-Result: Found at SyllableDB ID 467, Searched Time: 1.00us
+Result: Found at SyllableDB ID 467, Searched Time: 2.00us
 ==========
 Input ID: 468, Text: กับครีมซอ
 Result: Found at SyllableDB ID 468, Searched Time: 1.00us
 ==========
 Input ID: 469, Text: กับครีมซอสรส
-Result: Found at SyllableDB ID 469, Searched Time: 3.00us
+Result: Found at SyllableDB ID 469, Searched Time: 2.00us
 ==========
 Input ID: 470, Text: กับครีมซอสรสกลมกล่อม
-Result: Found at SyllableDB ID 470, Searched Time: 1.00us
+Result: Found at SyllableDB ID 470, Searched Time: 3.00us
 ==========
 Input ID: 471, Text: กับครีมซอสหอย
-Result: Found at SyllableDB ID 471, Searched Time: 1.00us
+Result: Found at SyllableDB ID 471, Searched Time: 2.00us
 ==========
 Input ID: 472, Text: กับคลื่นลม
-Result: Found at SyllableDB ID 472, Searched Time: 1.00us
+Result: Found at SyllableDB ID 472, Searched Time: 2.00us
 ==========
 Input ID: 473, Text: กับชวน
 Result: Found at SyllableDB ID 473, Searched Time: 1.00us
 ==========
 Input ID: 474, Text: กับซอสครีม
-Result: Found at SyllableDB ID 474, Searched Time: 1.00us
+Result: Found at SyllableDB ID 474, Searched Time: 3.00us
 ==========
 Input ID: 475, Text: กับซอสจน
-Result: Found at SyllableDB ID 475, Searched Time: 1.00us
+Result: Found at SyllableDB ID 475, Searched Time: 2.00us
 ==========
 Input ID: 476, Text: กับซอสพริกศรี
 Result: Found at SyllableDB ID 476, Searched Time: 2.00us
@@ -2000,46 +2000,46 @@ Input ID: 477, Text: กับตอนกลาง
 Result: Found at SyllableDB ID 477, Searched Time: 2.00us
 ==========
 Input ID: 478, Text: กับทราย์ส
-Result: Found at SyllableDB ID 478, Searched Time: 1.00us
+Result: Found at SyllableDB ID 478, Searched Time: 2.00us
 ==========
 Input ID: 479, Text: กับทองสม
 Result: Found at SyllableDB ID 479, Searched Time: 1.00us
 ==========
 Input ID: 480, Text: กับฟอน
-Result: Found at SyllableDB ID 480, Searched Time: 1.00us
+Result: Found at SyllableDB ID 480, Searched Time: 2.00us
 ==========
 Input ID: 481, Text: กับรสขม
-Result: Found at SyllableDB ID 481, Searched Time: 1.00us
+Result: Found at SyllableDB ID 481, Searched Time: 0.00us
 ==========
 Input ID: 482, Text: กับรสหวานสด
-Result: Found at SyllableDB ID 482, Searched Time: 1.00us
+Result: Found at SyllableDB ID 482, Searched Time: 3.00us
 ==========
 Input ID: 483, Text: กับลมหนาว
-Result: Found at SyllableDB ID 483, Searched Time: 2.00us
+Result: Found at SyllableDB ID 483, Searched Time: 1.00us
 ==========
 Input ID: 484, Text: กับสอง
-Result: Found at SyllableDB ID 484, Searched Time: 1.00us
+Result: Found at SyllableDB ID 484, Searched Time: 2.00us
 ==========
 Input ID: 485, Text: กากรตรวจ
 Result: Found at SyllableDB ID 485, Searched Time: 1.00us
 ==========
 Input ID: 486, Text: กาลอนดอน
-Result: Found at SyllableDB ID 486, Searched Time: 1.00us
+Result: Found at SyllableDB ID 486, Searched Time: 3.00us
 ==========
 Input ID: 487, Text: กางคอยออก
 Result: Found at SyllableDB ID 487, Searched Time: 1.00us
 ==========
 Input ID: 488, Text: กายข
-Result: Found at SyllableDB ID 488, Searched Time: 1.00us
+Result: Found at SyllableDB ID 488, Searched Time: 2.00us
 ==========
 Input ID: 489, Text: กายบน
 Result: Found at SyllableDB ID 489, Searched Time: 1.00us
 ==========
 Input ID: 490, Text: การคงหนี
-Result: Found at SyllableDB ID 490, Searched Time: 1.00us
+Result: Found at SyllableDB ID 490, Searched Time: 2.00us
 ==========
 Input ID: 491, Text: การครบครบครัน
-Result: Found at SyllableDB ID 491, Searched Time: 1.00us
+Result: Found at SyllableDB ID 491, Searched Time: 2.00us
 ==========
 Input ID: 492, Text: การคอยบริ
 Result: Found at SyllableDB ID 492, Searched Time: 2.00us
@@ -2051,7 +2051,7 @@ Input ID: 494, Text: การจอดฟรี
 Result: Found at SyllableDB ID 494, Searched Time: 2.00us
 ==========
 Input ID: 495, Text: การชมพระ
-Result: Found at SyllableDB ID 495, Searched Time: 1.00us
+Result: Found at SyllableDB ID 495, Searched Time: 2.00us
 ==========
 Input ID: 496, Text: การตอบสนอง
 Result: Found at SyllableDB ID 496, Searched Time: 2.00us
@@ -2060,40 +2060,16 @@ Input ID: 497, Text: การตอบสนองกลุ่ม
 Result: Found at SyllableDB ID 497, Searched Time: 1.00us
 ==========
 Input ID: 498, Text: การปรับปรุงออก
-Result: Found at SyllableDB ID 498, Searched Time: 2.00us
+Result: Found at SyllableDB ID 498, Searched Time: 1.00us
 ==========
 Input ID: 499, Text: การปรุงสด
 Result: Found at SyllableDB ID 499, Searched Time: 1.00us
 ==========
 Input ID: 500, Text: การปลูกดอก
-Result: Found at SyllableDB ID 500, Searched Time: 2.00us
+Result: Found at SyllableDB ID 500, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
+Result: Not Found, Searched Time: 3.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
@@ -2117,7 +2093,7 @@ Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
@@ -2135,13 +2111,43 @@ Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
@@ -2166,48 +2172,6 @@ Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
@@ -2234,6 +2198,78 @@ Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
@@ -2255,34 +2291,10 @@ Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
@@ -2295,6 +2307,9 @@ Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 0.00us
@@ -2315,12 +2330,6 @@ Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
@@ -2330,10 +2339,22 @@ Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 1509, Text: TESSSST
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
@@ -2345,40 +2366,19 @@ Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
+Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 1509, Text: TESSSST
 Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 1509, Text: TESSSST
-Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 501, Text: การพรท
 Result: Found at SyllableDB ID 501, Searched Time: 2.00us
 ==========
 Input ID: 502, Text: การพริต
-Result: Found at SyllableDB ID 502, Searched Time: 2.00us
+Result: Found at SyllableDB ID 502, Searched Time: 1.00us
 ==========
 Input ID: 503, Text: การ์มอง
-Result: Found at SyllableDB ID 503, Searched Time: 2.00us
+Result: Found at SyllableDB ID 503, Searched Time: 3.00us
 ==========
 Input ID: 504, Text: การรอบกอง
 Result: Found at SyllableDB ID 504, Searched Time: 1.00us
@@ -2396,22 +2396,22 @@ Input ID: 508, Text: กาลคร
 Result: Found at SyllableDB ID 508, Searched Time: 1.00us
 ==========
 Input ID: 509, Text: กาศกลิ่น
-Result: Found at SyllableDB ID 509, Searched Time: 2.00us
+Result: Found at SyllableDB ID 509, Searched Time: 1.00us
 ==========
 Input ID: 510, Text: กาศคง
-Result: Found at SyllableDB ID 510, Searched Time: 2.00us
+Result: Found at SyllableDB ID 510, Searched Time: 1.00us
 ==========
 Input ID: 511, Text: กาศควบ
 Result: Found at SyllableDB ID 511, Searched Time: 1.00us
 ==========
 Input ID: 512, Text: กาศตรง
-Result: Found at SyllableDB ID 512, Searched Time: 1.00us
+Result: Found at SyllableDB ID 512, Searched Time: 0.00us
 ==========
 Input ID: 513, Text: กาศม
 Result: Found at SyllableDB ID 513, Searched Time: 1.00us
 ==========
 Input ID: 514, Text: กาศสงบร่ม
-Result: Found at SyllableDB ID 514, Searched Time: 2.00us
+Result: Found at SyllableDB ID 514, Searched Time: 1.00us
 ==========
 Input ID: 515, Text: กาศสงบส
 Result: Found at SyllableDB ID 515, Searched Time: 1.00us
@@ -2420,109 +2420,109 @@ Input ID: 516, Text: กาศสวนผล
 Result: Found at SyllableDB ID 516, Searched Time: 1.00us
 ==========
 Input ID: 517, Text: กาศหวาน
-Result: Found at SyllableDB ID 517, Searched Time: 2.00us
+Result: Found at SyllableDB ID 517, Searched Time: 1.00us
 ==========
 Input ID: 518, Text: กิจกลาง
 Result: Found at SyllableDB ID 518, Searched Time: 1.00us
 ==========
 Input ID: 519, Text: กิจตลอดจน
-Result: Found at SyllableDB ID 519, Searched Time: 2.00us
+Result: Found at SyllableDB ID 519, Searched Time: 1.00us
 ==========
 Input ID: 520, Text: กิจพริ้นท์
-Result: Found at SyllableDB ID 520, Searched Time: 2.00us
+Result: Found at SyllableDB ID 520, Searched Time: 1.00us
 ==========
 Input ID: 521, Text: กิจพฤก
-Result: Found at SyllableDB ID 521, Searched Time: 0.00us
+Result: Found at SyllableDB ID 521, Searched Time: 1.00us
 ==========
 Input ID: 522, Text: กิจหลอมพลาส
-Result: Found at SyllableDB ID 522, Searched Time: 2.00us
+Result: Found at SyllableDB ID 522, Searched Time: 1.00us
 ==========
 Input ID: 523, Text: กิตกรุบ
-Result: Found at SyllableDB ID 523, Searched Time: 2.00us
+Result: Found at SyllableDB ID 523, Searched Time: 1.00us
 ==========
 Input ID: 524, Text: กี้คลอง
 Result: Found at SyllableDB ID 524, Searched Time: 1.00us
 ==========
 Input ID: 525, Text: กี้คลับพอ
-Result: Found at SyllableDB ID 525, Searched Time: 2.00us
+Result: Found at SyllableDB ID 525, Searched Time: 1.00us
 ==========
 Input ID: 526, Text: กึ่งผจญ
 Result: Found at SyllableDB ID 526, Searched Time: 1.00us
 ==========
 Input ID: 527, Text: กุ้งกว่า
-Result: Found at SyllableDB ID 527, Searched Time: 2.00us
+Result: Found at SyllableDB ID 527, Searched Time: 1.00us
 ==========
 Input ID: 528, Text: กุ้งตกส
-Result: Found at SyllableDB ID 528, Searched Time: 2.00us
+Result: Found at SyllableDB ID 528, Searched Time: 1.00us
 ==========
 Input ID: 529, Text: กุ้งทอดกรอบราด
-Result: Found at SyllableDB ID 529, Searched Time: 3.00us
+Result: Found at SyllableDB ID 529, Searched Time: 2.00us
 ==========
 Input ID: 530, Text: กุ้งปรุงรสหอมกลิ่นส
 Result: Found at SyllableDB ID 530, Searched Time: 1.00us
 ==========
 Input ID: 531, Text: กุ้งสดบน
-Result: Found at SyllableDB ID 531, Searched Time: 3.00us
+Result: Found at SyllableDB ID 531, Searched Time: 2.00us
 ==========
 Input ID: 532, Text: กุ้งอวบทอดพริก
-Result: Found at SyllableDB ID 532, Searched Time: 1.00us
+Result: Found at SyllableDB ID 532, Searched Time: 2.00us
 ==========
 Input ID: 533, Text: กุดประ
-Result: Found at SyllableDB ID 533, Searched Time: 2.00us
+Result: Found at SyllableDB ID 533, Searched Time: 1.00us
 ==========
 Input ID: 534, Text: กู้ตรง
-Result: Found at SyllableDB ID 534, Searched Time: 1.00us
+Result: Found at SyllableDB ID 534, Searched Time: 2.00us
 ==========
 Input ID: 535, Text: กูลวร
-Result: Found at SyllableDB ID 535, Searched Time: 2.00us
+Result: Found at SyllableDB ID 535, Searched Time: 1.00us
 ==========
 Input ID: 536, Text: เกตราด
-Result: Found at SyllableDB ID 536, Searched Time: 1.00us
+Result: Found at SyllableDB ID 536, Searched Time: 2.00us
 ==========
 Input ID: 537, Text: เก่งค
 Result: Found at SyllableDB ID 537, Searched Time: 2.00us
 ==========
 Input ID: 538, Text: เกตุคง
-Result: Found at SyllableDB ID 538, Searched Time: 1.00us
+Result: Found at SyllableDB ID 538, Searched Time: 2.00us
 ==========
 Input ID: 539, Text: เกรียวทอด
-Result: Found at SyllableDB ID 539, Searched Time: 2.00us
+Result: Found at SyllableDB ID 539, Searched Time: 3.00us
 ==========
 Input ID: 540, Text: เกลียวครู
-Result: Found at SyllableDB ID 540, Searched Time: 2.00us
+Result: Found at SyllableDB ID 540, Searched Time: 1.00us
 ==========
 Input ID: 541, Text: เกิร์ตรสกลมกล่อม
 Result: Found at SyllableDB ID 541, Searched Time: 2.00us
 ==========
 Input ID: 542, Text: เกิร์ตส
-Result: Found at SyllableDB ID 542, Searched Time: 2.00us
+Result: Found at SyllableDB ID 542, Searched Time: 1.00us
 ==========
 Input ID: 543, Text: แก่ตน
 Result: Found at SyllableDB ID 543, Searched Time: 1.00us
 ==========
 Input ID: 544, Text: แก่สระ
-Result: Found at SyllableDB ID 544, Searched Time: 2.00us
+Result: Found at SyllableDB ID 544, Searched Time: 1.00us
 ==========
 Input ID: 545, Text: แกนพลาส
-Result: Found at SyllableDB ID 545, Searched Time: 2.00us
+Result: Found at SyllableDB ID 545, Searched Time: 1.00us
 ==========
 Input ID: 546, Text: แกนรถ
-Result: Found at SyllableDB ID 546, Searched Time: 2.00us
+Result: Found at SyllableDB ID 546, Searched Time: 1.00us
 ==========
 Input ID: 547, Text: แกนรถยก
 Result: Found at SyllableDB ID 547, Searched Time: 1.00us
 ==========
 Input ID: 548, Text: แก้มรถ
-Result: Found at SyllableDB ID 548, Searched Time: 2.00us
+Result: Found at SyllableDB ID 548, Searched Time: 1.00us
 ==========
 Input ID: 549, Text: โก้ดอก
-Result: Found at SyllableDB ID 549, Searched Time: 0.00us
+Result: Found at SyllableDB ID 549, Searched Time: 1.00us
 ==========
 Input ID: 550, Text: โก้พรอส
-Result: Found at SyllableDB ID 550, Searched Time: 2.00us
+Result: Found at SyllableDB ID 550, Searched Time: 1.00us
 ==========
 Input ID: 551, Text: โกรวคอร์ปอ
-Result: Found at SyllableDB ID 551, Searched Time: 2.00us
+Result: Found at SyllableDB ID 551, Searched Time: 1.00us
 ==========
 Input ID: 552, Text: ไกล้ค่ำ
 Result: Found at SyllableDB ID 552, Searched Time: 1.00us
@@ -2534,13 +2534,13 @@ Input ID: 554, Text: ขนมอบหอมกรุ่น
 Result: Found at SyllableDB ID 554, Searched Time: 1.00us
 ==========
 Input ID: 555, Text: ข้นลอยหน้า
-Result: Found at SyllableDB ID 555, Searched Time: 2.00us
+Result: Found at SyllableDB ID 555, Searched Time: 1.00us
 ==========
 Input ID: 556, Text: ข้นหอมอ
 Result: Found at SyllableDB ID 556, Searched Time: 2.00us
 ==========
 Input ID: 557, Text: ข้นหอย
-Result: Found at SyllableDB ID 557, Searched Time: 1.00us
+Result: Found at SyllableDB ID 557, Searched Time: 0.00us
 ==========
 Input ID: 558, Text: ขมชง
 Result: Found at SyllableDB ID 558, Searched Time: 1.00us
@@ -2558,10 +2558,10 @@ Input ID: 562, Text: ขวางรอง
 Result: Found at SyllableDB ID 562, Searched Time: 1.00us
 ==========
 Input ID: 563, Text: ของกรมพลา
-Result: Found at SyllableDB ID 563, Searched Time: 2.00us
+Result: Found at SyllableDB ID 563, Searched Time: 1.00us
 ==========
 Input ID: 564, Text: ของกริล
-Result: Found at SyllableDB ID 564, Searched Time: 2.00us
+Result: Found at SyllableDB ID 564, Searched Time: 1.00us
 ==========
 Input ID: 565, Text: ของกลิ่นหอมหวน
 Result: Found at SyllableDB ID 565, Searched Time: 2.00us
@@ -2588,118 +2588,103 @@ Input ID: 572, Text: ของดอยหมอกดอก
 Result: Found at SyllableDB ID 572, Searched Time: 1.00us
 ==========
 Input ID: 573, Text: ของตรีสรา
-Result: Found at SyllableDB ID 573, Searched Time: 1.00us
+Result: Found at SyllableDB ID 573, Searched Time: 2.00us
 ==========
 Input ID: 574, Text: ของทองหล่อ
-Result: Found at SyllableDB ID 574, Searched Time: 3.00us
+Result: Found at SyllableDB ID 574, Searched Time: 2.00us
 ==========
 Input ID: 575, Text: ของนอร์ธ
-Result: Found at SyllableDB ID 575, Searched Time: 1.00us
+Result: Found at SyllableDB ID 575, Searched Time: 2.00us
 ==========
 Input ID: 576, Text: ของพรี่
-Result: Found at SyllableDB ID 576, Searched Time: 2.00us
+Result: Found at SyllableDB ID 576, Searched Time: 1.00us
 ==========
 Input ID: 577, Text: ของฟองนม
-Result: Found at SyllableDB ID 577, Searched Time: 1.00us
+Result: Found at SyllableDB ID 577, Searched Time: 2.00us
 ==========
 Input ID: 578, Text: ของมล
-Result: Found at SyllableDB ID 578, Searched Time: 3.00us
+Result: Found at SyllableDB ID 578, Searched Time: 2.00us
 ==========
 Input ID: 579, Text: ของรจ
-Result: Found at SyllableDB ID 579, Searched Time: 1.00us
+Result: Found at SyllableDB ID 579, Searched Time: 2.00us
 ==========
 Input ID: 580, Text: ของรอย
-Result: Found at SyllableDB ID 580, Searched Time: 2.00us
+Result: Found at SyllableDB ID 580, Searched Time: 1.00us
 ==========
 Input ID: 581, Text: ของวน
 Result: Found at SyllableDB ID 581, Searched Time: 2.00us
 ==========
 Input ID: 582, Text: ของวอด
-Result: Found at SyllableDB ID 582, Searched Time: 3.00us
+Result: Found at SyllableDB ID 582, Searched Time: 1.00us
 ==========
 Input ID: 583, Text: ของสตรอ
-Result: Found at SyllableDB ID 583, Searched Time: 1.00us
+Result: Found at SyllableDB ID 583, Searched Time: 2.00us
 ==========
 Input ID: 584, Text: ของหน้าา
-Result: Found at SyllableDB ID 584, Searched Time: 2.00us
+Result: Found at SyllableDB ID 584, Searched Time: 1.00us
 ==========
 Input ID: 585, Text: ของหมอกผสมผ
-Result: Found at SyllableDB ID 585, Searched Time: 1.00us
+Result: Found at SyllableDB ID 585, Searched Time: 3.00us
 ==========
 Input ID: 586, Text: ของหอประ
-Result: Found at SyllableDB ID 586, Searched Time: 3.00us
+Result: Found at SyllableDB ID 586, Searched Time: 1.00us
 ==========
 Input ID: 587, Text: ของหอยทอด
-Result: Found at SyllableDB ID 587, Searched Time: 1.00us
+Result: Found at SyllableDB ID 587, Searched Time: 2.00us
 ==========
 Input ID: 588, Text: ขององค์กรข
-Result: Found at SyllableDB ID 588, Searched Time: 2.00us
+Result: Found at SyllableDB ID 588, Searched Time: 1.00us
 ==========
 Input ID: 589, Text: ขัดบน
-Result: Found at SyllableDB ID 589, Searched Time: 1.00us
+Result: Found at SyllableDB ID 589, Searched Time: 2.00us
 ==========
 Input ID: 590, Text: ขัดสน
-Result: Found at SyllableDB ID 590, Searched Time: 2.00us
+Result: Found at SyllableDB ID 590, Searched Time: 1.00us
 ==========
 Input ID: 591, Text: ขับกล่อมคลาส
-Result: Found at SyllableDB ID 591, Searched Time: 2.00us
+Result: Found at SyllableDB ID 591, Searched Time: 3.00us
 ==========
 Input ID: 592, Text: ขับกล่อมบท
-Result: Found at SyllableDB ID 592, Searched Time: 2.00us
+Result: Found at SyllableDB ID 592, Searched Time: 1.00us
 ==========
 Input ID: 593, Text: ขับกล่อมพร้อม
-Result: Found at SyllableDB ID 593, Searched Time: 2.00us
+Result: Found at SyllableDB ID 593, Searched Time: 3.00us
 ==========
 Input ID: 594, Text: ขับชมรอบ
-Result: Found at SyllableDB ID 594, Searched Time: 3.00us
+Result: Found at SyllableDB ID 594, Searched Time: 1.00us
 ==========
 Input ID: 595, Text: ขัยพฤกษ์
-Result: Found at SyllableDB ID 595, Searched Time: 1.00us
+Result: Found at SyllableDB ID 595, Searched Time: 2.00us
 ==========
 Input ID: 596, Text: ข้างตก
 Result: Found at SyllableDB ID 596, Searched Time: 1.00us
 ==========
 Input ID: 597, Text: ข้างวอย
-Result: Found at SyllableDB ID 597, Searched Time: 1.00us
+Result: Found at SyllableDB ID 597, Searched Time: 2.00us
 ==========
 Input ID: 598, Text: ข้ามคตลองประ
 Result: Found at SyllableDB ID 598, Searched Time: 1.00us
 ==========
 Input ID: 599, Text: ข้ามปราณ
-Result: Found at SyllableDB ID 599, Searched Time: 1.00us
+Result: Found at SyllableDB ID 599, Searched Time: 3.00us
 ==========
 Input ID: 600, Text: ขามปรุงรส
-Result: Found at SyllableDB ID 600, Searched Time: 1.00us
+Result: Found at SyllableDB ID 600, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 3.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss 
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
+Result: Not Found, Searched Time: 3.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
@@ -2713,26 +2698,11 @@ Result: Not Found, Searched Time: 1.00us
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
-Input ID: 342s, Text: ROADSHOWss 
-Result: Not Found, Searched Time: 1.00us
-==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
+Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
@@ -2744,6 +2714,9 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss 
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
@@ -2762,13 +2735,10 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
@@ -2786,69 +2756,6 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss 
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss 
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
@@ -2858,40 +2765,13 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss 
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss 
 Result: Not Found, Searched Time: 0.00us
@@ -2921,6 +2801,96 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss 
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss 
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss 
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss 
@@ -2933,7 +2903,7 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
-Result: Not Found, Searched Time: 2.00us
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
@@ -2954,6 +2924,18 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss 
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
@@ -2966,114 +2948,27 @@ Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 342s, Text: ROADSHOWss 
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 1.00us
 ==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
+Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
+Input ID: 342s, Text: ROADSHOWss
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
@@ -3086,7 +2981,46 @@ Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 2.00us
@@ -3122,81 +3056,6 @@ Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 0.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 1.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
-Result: Not Found, Searched Time: 2.00us
-==========
-Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
@@ -3218,6 +3077,69 @@ Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 2.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
@@ -3225,6 +3147,48 @@ Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 1.00us
@@ -3267,10 +3231,46 @@ Result: Not Found, Searched Time: 0.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 2.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 0.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
+==========
+Input ID: 17997, Text: BEEARAAAAA
+Result: Not Found, Searched Time: 1.00us
 ==========
 Input ID: 17997, Text: BEEARAAAAA
 Result: Not Found, Searched Time: 0.00us
 ==========
 
 Searched 1090 inputs, Not Found: 491
-Total Searched Time: 2767.00us
+Total Searched Time: 2676.00us
